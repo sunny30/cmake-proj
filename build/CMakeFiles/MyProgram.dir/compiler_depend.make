@@ -224,8 +224,11 @@ CMakeFiles/MyProgram.dir/main.cpp.o: /Users/sharadsingh/Dev/cpp_proj/main.cpp \
   /Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include/stdarg.h \
   /Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include/stddef.h \
   /Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include/stdint.h \
-  /Users/sharadsingh/Dev/cpp_proj/spop.h
+  /Users/sharadsingh/Dev/cpp_proj/spop.h \
+  /Users/sharadsingh/Dev/cpp_proj/stack_impl.cpp
 
+
+/Users/sharadsingh/Dev/cpp_proj/stack_impl.cpp:
 
 /Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include/stdarg.h:
 

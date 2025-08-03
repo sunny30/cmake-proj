@@ -1,6 +1,7 @@
 #include<iostream>
 #include<stdio.h>
-#include"spop.h"
+#include"stack_impl.cpp"
+//#include"spop.h"
 
 using namespace std ;
 
@@ -9,4 +10,6 @@ int main(){
     SPOP p = POP ;
    
     cout<<p<<endl ;
+    push(3) ;
+    cout<<top()<<endl ;
 }
