@@ -23,4 +23,7 @@ int main(){
     cout<<top()<<endl ;
     int **arr2d = memalloc2d(2,3) ;
     cout<<arr2d[1][1]<<endl ; 
+    char s[10] ;
+    scanf("%s",s) ;
+    printf("%s", s) ;
 }
