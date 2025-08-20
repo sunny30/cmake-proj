@@ -8,6 +8,7 @@ set(CMAKE_DEPENDS_GENERATOR "Unix Makefiles")
 set(CMAKE_MAKEFILE_DEPENDS
   "CMakeCache.txt"
   "/Users/sharadsingh/Dev/cpp_proj/CMakeLists.txt"
+  "Arrow-prefix/tmp/Arrow-mkdirs.cmake"
   "CMakeFiles/4.0.3/CMakeCXXCompiler.cmake"
   "CMakeFiles/4.0.3/CMakeSystem.cmake"
   "/usr/local/share/cmake/Modules/CMakeCXXInformation.cmake"
@@ -21,6 +22,15 @@ set(CMAKE_MAKEFILE_DEPENDS
   "/usr/local/share/cmake/Modules/Compiler/CMakeCommonCompilerMacros.cmake"
   "/usr/local/share/cmake/Modules/Compiler/Clang.cmake"
   "/usr/local/share/cmake/Modules/Compiler/GNU.cmake"
+  "/usr/local/share/cmake/Modules/ExternalProject.cmake"
+  "/usr/local/share/cmake/Modules/ExternalProject/PatchInfo.txt.in"
+  "/usr/local/share/cmake/Modules/ExternalProject/RepositoryInfo.txt.in"
+  "/usr/local/share/cmake/Modules/ExternalProject/UpdateInfo.txt.in"
+  "/usr/local/share/cmake/Modules/ExternalProject/cfgcmd.txt.in"
+  "/usr/local/share/cmake/Modules/ExternalProject/download.cmake.in"
+  "/usr/local/share/cmake/Modules/ExternalProject/extractfile.cmake.in"
+  "/usr/local/share/cmake/Modules/ExternalProject/mkdirs.cmake.in"
+  "/usr/local/share/cmake/Modules/ExternalProject/shared_internal_commands.cmake"
   "/usr/local/share/cmake/Modules/Internal/CMakeCXXLinkerInformation.cmake"
   "/usr/local/share/cmake/Modules/Internal/CMakeCommonLinkerInformation.cmake"
   "/usr/local/share/cmake/Modules/Linker/AppleClang-CXX.cmake"
@@ -43,10 +53,19 @@ set(CMAKE_MAKEFILE_OUTPUTS
 
 # Byproducts of CMake generate step:
 set(CMAKE_MAKEFILE_PRODUCTS
+  "Arrow-prefix/tmp/Arrow-mkdirs.cmake"
+  "Arrow-prefix/src/Arrow-stamp/download-Arrow.cmake"
+  "Arrow-prefix/src/Arrow-stamp/verify-Arrow.cmake"
+  "Arrow-prefix/src/Arrow-stamp/extract-Arrow.cmake"
+  "Arrow-prefix/src/Arrow-stamp/Arrow-urlinfo.txt"
+  "Arrow-prefix/src/Arrow-stamp/Arrow-update-info.txt"
+  "Arrow-prefix/src/Arrow-stamp/Arrow-patch-info.txt"
+  "Arrow-prefix/tmp/Arrow-cfgcmd.txt"
   "CMakeFiles/CMakeDirectoryInformation.cmake"
   )
 
 # Dependency information for all targets:
 set(CMAKE_DEPEND_INFO_FILES
+  "CMakeFiles/Arrow.dir/DependInfo.cmake"
   "CMakeFiles/MyProgram.dir/DependInfo.cmake"
   )

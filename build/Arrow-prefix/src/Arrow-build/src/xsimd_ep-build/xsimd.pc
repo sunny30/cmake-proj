@@ -1,0 +1,8 @@
+prefix=/Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/xsimd_ep/src/xsimd_ep-install
+libdir=/Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/xsimd_ep/src/xsimd_ep-install/lib
+includedir=/Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/xsimd_ep/src/xsimd_ep-install/include
+
+Name: xsimd
+Description: xsimd provides a unified means for using SIMD features for library authors..
+Version: 13.0.0
+Cflags: -I${includedir}

@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/sharadsingh/Dev/cpp_proj/build/CMakeFiles/Arrow"
+		},
+		{
+			"file" : "/Users/sharadsingh/Dev/cpp_proj/build/CMakeFiles/Arrow.rule"
+		},
+		{
+			"file" : "/Users/sharadsingh/Dev/cpp_proj/build/CMakeFiles/Arrow-complete.rule"
+		},
+		{
+			"file" : "/Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-stamp/Arrow-build.rule"
+		},
+		{
+			"file" : "/Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-stamp/Arrow-configure.rule"
+		},
+		{
+			"file" : "/Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-stamp/Arrow-download.rule"
+		},
+		{
+			"file" : "/Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-stamp/Arrow-install.rule"
+		},
+		{
+			"file" : "/Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-stamp/Arrow-mkdir.rule"
+		},
+		{
+			"file" : "/Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-stamp/Arrow-patch.rule"
+		},
+		{
+			"file" : "/Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-stamp/Arrow-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"Arrow"
+		],
+		"name" : "Arrow"
+	}
+}

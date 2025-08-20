@@ -1,0 +1,13 @@
+# Target labels
+ mimalloc_ep
+# Source files and their labels
+/Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/CMakeFiles/mimalloc_ep
+/Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/CMakeFiles/mimalloc_ep.rule
+/Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/CMakeFiles/mimalloc_ep-complete.rule
+/Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/mimalloc_ep-prefix/src/mimalloc_ep-stamp/mimalloc_ep-build.rule
+/Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/mimalloc_ep-prefix/src/mimalloc_ep-stamp/mimalloc_ep-configure.rule
+/Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/mimalloc_ep-prefix/src/mimalloc_ep-stamp/mimalloc_ep-download.rule
+/Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/mimalloc_ep-prefix/src/mimalloc_ep-stamp/mimalloc_ep-install.rule
+/Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/mimalloc_ep-prefix/src/mimalloc_ep-stamp/mimalloc_ep-mkdir.rule
+/Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/mimalloc_ep-prefix/src/mimalloc_ep-stamp/mimalloc_ep-patch.rule
+/Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/mimalloc_ep-prefix/src/mimalloc_ep-stamp/mimalloc_ep-update.rule

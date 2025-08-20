@@ -1,0 +1,10 @@
+/Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/mimalloc_ep/src/mimalloc_ep/lib/mimalloc-2.2/libmimalloc.a
+/Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/mimalloc_ep/src/mimalloc_ep/lib/cmake/mimalloc-2.2/mimalloc.cmake
+/Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/mimalloc_ep/src/mimalloc_ep/lib/cmake/mimalloc-2.2/mimalloc-release.cmake
+/Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/mimalloc_ep/src/mimalloc_ep/include/mimalloc-2.2/mimalloc.h
+/Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/mimalloc_ep/src/mimalloc_ep/include/mimalloc-2.2/mimalloc-override.h
+/Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/mimalloc_ep/src/mimalloc_ep/include/mimalloc-2.2/mimalloc-new-delete.h
+/Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/mimalloc_ep/src/mimalloc_ep/include/mimalloc-2.2/mimalloc-stats.h
+/Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/mimalloc_ep/src/mimalloc_ep/lib/cmake/mimalloc-2.2/mimalloc-config.cmake
+/Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/mimalloc_ep/src/mimalloc_ep/lib/cmake/mimalloc-2.2/mimalloc-config-version.cmake
+/Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/mimalloc_ep/src/mimalloc_ep/lib/pkgconfig/mimalloc.pc

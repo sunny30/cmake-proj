@@ -1,0 +1,13 @@
+[100%] Built target mimalloc-static
+Install the project...
+-- Install configuration: "Release"
+-- Installing: /Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/mimalloc_ep/src/mimalloc_ep/lib/mimalloc-2.2/libmimalloc.a
+-- Installing: /Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/mimalloc_ep/src/mimalloc_ep/lib/cmake/mimalloc-2.2/mimalloc.cmake
+-- Installing: /Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/mimalloc_ep/src/mimalloc_ep/lib/cmake/mimalloc-2.2/mimalloc-release.cmake
+-- Installing: /Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/mimalloc_ep/src/mimalloc_ep/include/mimalloc-2.2/mimalloc.h
+-- Installing: /Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/mimalloc_ep/src/mimalloc_ep/include/mimalloc-2.2/mimalloc-override.h
+-- Installing: /Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/mimalloc_ep/src/mimalloc_ep/include/mimalloc-2.2/mimalloc-new-delete.h
+-- Installing: /Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/mimalloc_ep/src/mimalloc_ep/include/mimalloc-2.2/mimalloc-stats.h
+-- Installing: /Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/mimalloc_ep/src/mimalloc_ep/lib/cmake/mimalloc-2.2/mimalloc-config.cmake
+-- Installing: /Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/mimalloc_ep/src/mimalloc_ep/lib/cmake/mimalloc-2.2/mimalloc-config-version.cmake
+-- Installing: /Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/mimalloc_ep/src/mimalloc_ep/lib/pkgconfig/mimalloc.pc

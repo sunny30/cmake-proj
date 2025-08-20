@@ -223,4 +223,124 @@ CMakeFiles/MyProgram.dir/main.cpp.o: \
   /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/bitset \
   /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/__bit_reference \
   /Users/sharadsingh/Dev/cpp_proj/stack_impl.cpp \
-  /Users/sharadsingh/Dev/cpp_proj/spop.h
+  /Users/sharadsingh/Dev/cpp_proj/spop.h \
+  /usr/local/include/arrow/io/api.h \
+  /usr/local/include/arrow/io/buffered.h \
+  /usr/local/include/arrow/io/concurrency.h \
+  /usr/local/include/arrow/io/interfaces.h \
+  /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/vector \
+  /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/__split_buffer \
+  /usr/local/include/arrow/io/type_fwd.h \
+  /usr/local/include/arrow/type_fwd.h \
+  /usr/local/include/arrow/util/macros.h \
+  /usr/local/include/arrow/util/visibility.h \
+  /usr/local/include/arrow/util/cancel.h \
+  /usr/local/include/arrow/status.h \
+  /usr/local/include/arrow/util/compare.h \
+  /usr/local/include/arrow/util/string_util.h \
+  /usr/local/include/arrow/util/type_fwd.h \
+  /usr/local/include/arrow/result.h \
+  /usr/local/include/arrow/util/aligned_storage.h \
+  /usr/local/include/arrow/util/launder.h \
+  /usr/local/include/arrow/util/checked_cast.h \
+  /usr/local/include/arrow/io/compressed.h \
+  /usr/local/include/arrow/io/file.h /usr/local/include/arrow/io/hdfs.h \
+  /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/unordered_map \
+  /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/__hash_table \
+  /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/cmath \
+  /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/math.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/math.h \
+  /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/__node_handle \
+  /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/optional \
+  /usr/local/include/arrow/io/memory.h \
+  /usr/local/include/arrow/ipc/api.h \
+  /usr/local/include/arrow/ipc/dictionary.h \
+  /usr/local/include/arrow/ipc/feather.h \
+  /usr/local/include/arrow/ipc/options.h \
+  /usr/local/include/arrow/io/caching.h \
+  /usr/local/include/arrow/ipc/type_fwd.h \
+  /usr/local/include/arrow/util/align_util.h \
+  /usr/local/include/arrow/memory_pool.h \
+  /usr/local/include/arrow/util/bit_util.h \
+  /usr/local/include/arrow/util/compression.h \
+  /usr/local/include/arrow/ipc/message.h \
+  /usr/local/include/arrow/ipc/reader.h \
+  /usr/local/include/arrow/record_batch.h \
+  /usr/local/include/arrow/compare.h /usr/local/include/arrow/device.h \
+  /usr/local/include/arrow/util/iterator.h \
+  /usr/local/include/arrow/util/functional.h \
+  /usr/local/include/arrow/util/async_generator.h \
+  /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/deque \
+  /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/queue \
+  /usr/local/include/arrow/util/async_generator_fwd.h \
+  /usr/local/include/arrow/util/async_util.h \
+  /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/list \
+  /usr/local/include/arrow/util/future.h \
+  /usr/local/include/arrow/type_traits.h /usr/local/include/arrow/type.h \
+  /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/variant \
+  /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/array \
+  /usr/local/include/arrow/util/endian.h \
+  /usr/local/include/arrow/util/type_traits.h \
+  /usr/local/include/arrow/util/ubsan.h \
+  /usr/local/include/arrow/visitor.h \
+  /usr/local/include/arrow/util/config.h \
+  /usr/local/include/arrow/util/tracing.h \
+  /usr/local/include/arrow/util/mutex.h \
+  /usr/local/include/arrow/util/thread_pool.h \
+  /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/unordered_set \
+  /usr/local/include/arrow/util/io_util.h \
+  /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/csignal \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/signal.h \
+  /usr/local/include/arrow/util/windows_fixup.h \
+  /usr/local/include/arrow/util/queue.h \
+  /usr/local/include/arrow/vendored/ProducerConsumerQueue.h \
+  /usr/local/include/arrow/ipc/writer.h /usr/local/include/arrow/api.h \
+  /usr/local/include/arrow/array.h \
+  /usr/local/include/arrow/array/array_base.h \
+  /usr/local/include/arrow/array/data.h \
+  /usr/local/include/arrow/array/statistics.h \
+  /usr/local/include/arrow/buffer.h /usr/local/include/arrow/util/span.h \
+  /usr/local/include/arrow/array/array_binary.h \
+  /usr/local/include/arrow/stl_iterator.h \
+  /usr/local/include/arrow/chunked_array.h \
+  /usr/local/include/arrow/chunk_resolver.h \
+  /usr/local/include/arrow/device_allocation_type_set.h \
+  /usr/local/include/arrow/array/array_decimal.h \
+  /usr/local/include/arrow/array/array_dict.h \
+  /usr/local/include/arrow/array/array_nested.h \
+  /usr/local/include/arrow/array/array_primitive.h \
+  /usr/local/include/arrow/array/array_run_end.h \
+  /usr/local/include/arrow/array/util.h \
+  /usr/local/include/arrow/array/concatenate.h \
+  /usr/local/include/arrow/builder.h \
+  /usr/local/include/arrow/array/builder_adaptive.h \
+  /usr/local/include/arrow/array/builder_base.h \
+  /usr/local/include/arrow/buffer_builder.h \
+  /usr/local/include/arrow/util/bitmap_generate.h \
+  /usr/local/include/arrow/util/bitmap_ops.h \
+  /usr/local/include/arrow/array/builder_binary.h \
+  /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/numeric \
+  /usr/local/include/arrow/util/binary_view_util.h \
+  /usr/local/include/arrow/array/builder_decimal.h \
+  /usr/local/include/arrow/array/builder_dict.h \
+  /usr/local/include/arrow/array/builder_primitive.h \
+  /usr/local/include/arrow/scalar.h \
+  /usr/local/include/arrow/extension_type.h \
+  /usr/local/include/arrow/util/decimal.h \
+  /usr/local/include/arrow/util/basic_decimal.h \
+  /usr/local/include/arrow/visit_type_inline.h \
+  /usr/local/include/arrow/util/unreachable.h \
+  /usr/local/include/arrow/visitor_generate.h \
+  /usr/local/include/arrow/util/bit_block_counter.h \
+  /usr/local/include/arrow/array/builder_nested.h \
+  /usr/local/include/arrow/array/builder_run_end.h \
+  /usr/local/include/arrow/array/builder_time.h \
+  /usr/local/include/arrow/array/builder_union.h \
+  /usr/local/include/arrow/config.h /usr/local/include/arrow/datum.h \
+  /usr/local/include/arrow/pretty_print.h \
+  /usr/local/include/arrow/table.h \
+  /usr/local/include/arrow/table_builder.h \
+  /usr/local/include/arrow/tensor.h \
+  /usr/local/include/arrow/util/key_value_metadata.h \
+  /usr/local/include/arrow/visit_array_inline.h \
+  /usr/local/include/arrow/visit_scalar_inline.h

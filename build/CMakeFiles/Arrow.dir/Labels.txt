@@ -1,0 +1,13 @@
+# Target labels
+ Arrow
+# Source files and their labels
+/Users/sharadsingh/Dev/cpp_proj/build/CMakeFiles/Arrow
+/Users/sharadsingh/Dev/cpp_proj/build/CMakeFiles/Arrow.rule
+/Users/sharadsingh/Dev/cpp_proj/build/CMakeFiles/Arrow-complete.rule
+/Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-stamp/Arrow-build.rule
+/Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-stamp/Arrow-configure.rule
+/Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-stamp/Arrow-download.rule
+/Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-stamp/Arrow-install.rule
+/Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-stamp/Arrow-mkdir.rule
+/Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-stamp/Arrow-patch.rule
+/Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-stamp/Arrow-update.rule

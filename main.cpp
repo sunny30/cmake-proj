@@ -1,7 +1,12 @@
 #include<iostream>
 #include<stdio.h>
 #include"stack_impl.cpp"
+
+#include <arrow/io/api.h>
+#include <arrow/ipc/api.h>
+#include <arrow/api.h>
 //#include"spop.h"
+///usr/local/include/arrow/ 
 
 using namespace std ;
 
@@ -14,6 +19,9 @@ using namespace std ;
     return arr ;
  }
 
+
+ 
+
 int main(){
     cout<<"first cmake proj1"<<endl ;
     SPOP p = POP ;
@@ -24,6 +32,7 @@ int main(){
     int **arr2d = memalloc2d(2,3) ;
     cout<<arr2d[1][1]<<endl ; 
     char s[10] ;
-    scanf("%s",s) ;
-    printf("%s", s) ;
+    //scanf("%s",s) ;
+   // printf("%s", s) ;
+   shared_ptr<arrow::io::ReadableFile> infile ;
 }

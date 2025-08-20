@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/mimalloc_ep-prefix/src/mimalloc_ep-build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

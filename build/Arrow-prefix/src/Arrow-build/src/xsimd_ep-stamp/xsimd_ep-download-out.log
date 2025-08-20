@@ -1,0 +1,31 @@
+-- Downloading...
+   dst='/Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/src/13.0.0.tar.gz'
+   timeout='none'
+   inactivity timeout='none'
+-- Using src='https://github.com/xtensor-stack/xsimd/archive/13.0.0.tar.gz'
+-- [download 5% complete]
+-- [download 9% complete]
+-- [download 16% complete]
+-- [download 18% complete]
+-- [download 32% complete]
+-- [download 37% complete]
+-- [download 39% complete]
+-- [download 42% complete]
+-- [download 66% complete]
+-- [download 76% complete]
+-- [download 79% complete]
+-- [download 81% complete]
+-- [download 91% complete]
+-- [download 93% complete]
+-- [download 100% complete]
+-- verifying file...
+       file='/Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/src/13.0.0.tar.gz'
+-- Downloading... done
+-- extracting...
+     src='/Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/src/13.0.0.tar.gz'
+     dst='/Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/src/xsimd_ep'
+-- extracting... [tar xfz]
+-- extracting... [analysis]
+-- extracting... [rename]
+-- extracting... [clean up]
+-- extracting... done

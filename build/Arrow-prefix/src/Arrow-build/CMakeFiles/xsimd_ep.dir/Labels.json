@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/CMakeFiles/xsimd_ep"
+		},
+		{
+			"file" : "/Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/CMakeFiles/xsimd_ep.rule"
+		},
+		{
+			"file" : "/Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/CMakeFiles/xsimd_ep-complete.rule"
+		},
+		{
+			"file" : "/Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/src/xsimd_ep-stamp/xsimd_ep-build.rule"
+		},
+		{
+			"file" : "/Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/src/xsimd_ep-stamp/xsimd_ep-configure.rule"
+		},
+		{
+			"file" : "/Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/src/xsimd_ep-stamp/xsimd_ep-download.rule"
+		},
+		{
+			"file" : "/Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/src/xsimd_ep-stamp/xsimd_ep-install.rule"
+		},
+		{
+			"file" : "/Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/src/xsimd_ep-stamp/xsimd_ep-mkdir.rule"
+		},
+		{
+			"file" : "/Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/src/xsimd_ep-stamp/xsimd_ep-patch.rule"
+		},
+		{
+			"file" : "/Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/src/xsimd_ep-stamp/xsimd_ep-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"xsimd_ep"
+		],
+		"name" : "xsimd_ep"
+	}
+}

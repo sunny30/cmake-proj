@@ -1,0 +1,10 @@
+# Hashes of file build rules.
+2114cdf9ecdeb378a5957ce54af93d22 Arrow-prefix/src/Arrow-stamp/Arrow-build
+9cb25ee60487e11a6bd76ccab0404b68 Arrow-prefix/src/Arrow-stamp/Arrow-configure
+f36f3c57e1840edaa5620b68857f11a8 Arrow-prefix/src/Arrow-stamp/Arrow-download
+eed2e0b6a836968b36e312880f5f7f61 Arrow-prefix/src/Arrow-stamp/Arrow-install
+7dfb483fffe5011392ab6e356b41c7d9 Arrow-prefix/src/Arrow-stamp/Arrow-mkdir
+bc0343fe323d0ef3d847b61c7a84a4e0 Arrow-prefix/src/Arrow-stamp/Arrow-patch
+278cbaf2b776303359c142f028aef00a Arrow-prefix/src/Arrow-stamp/Arrow-update
+5776875956019ef936171a3225e7daf6 CMakeFiles/Arrow
+804b98aaf4b7cf10566a56863ccd9128 CMakeFiles/Arrow-complete

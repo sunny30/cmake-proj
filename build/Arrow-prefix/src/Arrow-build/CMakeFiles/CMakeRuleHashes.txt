@@ -1,0 +1,24 @@
+# Hashes of file build rules.
+d76df1d0346160dfb24102c20df3dc87 CMakeFiles/cscope
+7f0e0d635369c00136dfc27a57981717 CMakeFiles/ctags
+abb31aaf0f1877736f69ca8ad65710e6 CMakeFiles/etags
+abb31aaf0f1877736f69ca8ad65710e6 CMakeFiles/mimalloc_ep
+a1236248bcdb3631c6b2a8279beba256 CMakeFiles/mimalloc_ep-complete
+1da2328104ce81e4a3cdfba61dfeecc7 CMakeFiles/tags
+abb31aaf0f1877736f69ca8ad65710e6 CMakeFiles/xsimd_ep
+e0810e1cabf17cf1dbca5b4314d78d78 CMakeFiles/xsimd_ep-complete
+e6e57446729af311dd077c2f83404bcc mimalloc_ep-prefix/src/mimalloc_ep-stamp/mimalloc_ep-build
+87f88e2559588096b0fdc93357c7d3a3 mimalloc_ep-prefix/src/mimalloc_ep-stamp/mimalloc_ep-configure
+dae81d54fc9cc1b00b3a9d51af659563 mimalloc_ep-prefix/src/mimalloc_ep-stamp/mimalloc_ep-download
+dd360042d0b773e2075a19432ae4bc96 mimalloc_ep-prefix/src/mimalloc_ep-stamp/mimalloc_ep-install
+1c5c4020c5333eb12991338daf463df4 mimalloc_ep-prefix/src/mimalloc_ep-stamp/mimalloc_ep-mkdir
+ad18c395f0dfc5a045fe606ccf5e42f8 mimalloc_ep-prefix/src/mimalloc_ep-stamp/mimalloc_ep-patch
+c31c665fa898710b58faa36778b68e5c mimalloc_ep-prefix/src/mimalloc_ep-stamp/mimalloc_ep-update
+3bd8fc0601e93fb167a146417809fa8c src/arrow/CMakeFiles/arrow_bundled_dependencies_merge
+cfeb42527ff411fe3e6d03ae073de3c1 src/xsimd_ep-stamp/xsimd_ep-build
+18634025c6af8ced091fb745caeb368a src/xsimd_ep-stamp/xsimd_ep-configure
+997e8e8363953ce568307b65b3e3465a src/xsimd_ep-stamp/xsimd_ep-download
+3102cc9288f169925f7bde1e55a69152 src/xsimd_ep-stamp/xsimd_ep-install
+87b328c2d766b688fa389f2448ad79a3 src/xsimd_ep-stamp/xsimd_ep-mkdir
+81b187810089d62b15f8bb1eb31fe198 src/xsimd_ep-stamp/xsimd_ep-patch
+7c595857d45b009577bc2ee8bf60fac5 src/xsimd_ep-stamp/xsimd_ep-update
