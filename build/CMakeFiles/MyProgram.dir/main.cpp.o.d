@@ -1,13 +1,23 @@
 CMakeFiles/MyProgram.dir/main.cpp.o: \
   /Users/sharadsingh/Dev/cpp_proj/main.cpp \
-  /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/iostream \
+  /Users/sharadsingh/Dev/cpp_proj/stack_impl.cpp \
+  /Users/sharadsingh/Dev/cpp_proj/spop.h /usr/local/include/arrow/api.h \
+  /usr/local/include/arrow/array.h \
+  /usr/local/include/arrow/array/array_base.h \
+  /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/cstdint \
   /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/__config \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/pthread.h \
-  /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/ios \
-  /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/iosfwd \
-  /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/wchar.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/wchar.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/_types.h \
+  /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/stdint.h \
+  /Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include/stdint.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/stdint.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/sys/_types/_int8_t.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/sys/_types/_int16_t.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/sys/_types/_int32_t.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/sys/_types/_int64_t.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/_types/_uint8_t.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/_types/_uint16_t.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/_types/_uint32_t.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/_types/_uint64_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/sys/_types.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/sys/cdefs.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/sys/_symbol_aliasing.h \
@@ -15,23 +25,25 @@ CMakeFiles/MyProgram.dir/main.cpp.o: \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/machine/_types.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/i386/_types.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/sys/_pthread/_pthread_types.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/sys/_types/_intptr_t.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/machine/types.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/i386/types.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/sys/_types/_u_int8_t.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/sys/_types/_u_int16_t.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/sys/_types/_u_int32_t.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/sys/_types/_u_int64_t.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/sys/_types/_uintptr_t.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/_types/_intmax_t.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/_types/_uintmax_t.h \
+  /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/iosfwd \
+  /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/wchar.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/wchar.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/_types.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/Availability.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/AvailabilityInternal.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/sys/_types/_null.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/sys/_types/_size_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/sys/_types/_mbstate_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/machine/types.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/i386/types.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/sys/_types/_int8_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/sys/_types/_int16_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/sys/_types/_int32_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/sys/_types/_int64_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/sys/_types/_u_int8_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/sys/_types/_u_int16_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/sys/_types/_u_int32_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/sys/_types/_u_int64_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/sys/_types/_intptr_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/sys/_types/_uintptr_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/sys/_types/_ct_rune_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/sys/_types/_rune_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/sys/_types/_wchar_t.h \
@@ -56,36 +68,13 @@ CMakeFiles/MyProgram.dir/main.cpp.o: \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/ctype.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/_ctype.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/runetype.h \
-  /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/__locale \
-  /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/string \
-  /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/string_view \
-  /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/__string \
-  /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/algorithm \
-  /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/initializer_list \
+  /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/memory \
+  /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/type_traits \
   /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/cstddef \
   /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/__cxx_version \
   /Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include/stddef.h \
   /Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include/__stddef_max_align_t.h \
   /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/__nullptr \
-  /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/type_traits \
-  /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/cstring \
-  /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/string.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/string.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/strings.h \
-  /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/utility \
-  /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/__tuple \
-  /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/cstdint \
-  /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/stdint.h \
-  /Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include/stdint.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/stdint.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/_types/_uint8_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/_types/_uint16_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/_types/_uint32_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/_types/_uint64_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/_types/_intmax_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/_types/_uintmax_t.h \
-  /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/__debug \
-  /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/memory \
   /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/typeinfo \
   /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/exception \
   /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/cstdlib \
@@ -119,6 +108,14 @@ CMakeFiles/MyProgram.dir/main.cpp.o: \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/sys/_types/_dev_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/sys/_types/_mode_t.h \
   /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/new \
+  /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/utility \
+  /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/__tuple \
+  /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/initializer_list \
+  /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/cstring \
+  /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/string.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/string.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/strings.h \
+  /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/__debug \
   /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/limits \
   /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/__undef_macros \
   /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/iterator \
@@ -128,6 +125,10 @@ CMakeFiles/MyProgram.dir/main.cpp.o: \
   /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/cassert \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/assert.h \
   /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/atomic \
+  /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/string \
+  /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/string_view \
+  /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/__string \
+  /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/algorithm \
   /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/functional \
   /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/bit \
   /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/cstdio \
@@ -137,11 +138,8 @@ CMakeFiles/MyProgram.dir/main.cpp.o: \
   /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/wctype.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/wctype.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/_types/_wctrans_t.h \
-  /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/mutex \
-  /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/__mutex_base \
-  /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/chrono \
-  /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/ctime \
-  /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/ratio \
+  /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/vector \
+  /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/__bit_reference \
   /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/climits \
   /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/limits.h \
   /Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include/limits.h \
@@ -150,6 +148,27 @@ CMakeFiles/MyProgram.dir/main.cpp.o: \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/i386/limits.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/i386/_limits.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/sys/syslimits.h \
+  /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/__split_buffer \
+  /usr/local/include/arrow/array/data.h \
+  /usr/local/include/arrow/array/statistics.h \
+  /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/optional \
+  /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/variant \
+  /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/array \
+  /usr/local/include/arrow/compare.h \
+  /usr/local/include/arrow/util/macros.h \
+  /usr/local/include/arrow/util/visibility.h \
+  /usr/local/include/arrow/type.h /usr/local/include/arrow/result.h \
+  /usr/local/include/arrow/status.h \
+  /usr/local/include/arrow/util/compare.h \
+  /usr/local/include/arrow/util/string_util.h \
+  /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/ostream \
+  /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/ios \
+  /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/__locale \
+  /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/mutex \
+  /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/__mutex_base \
+  /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/chrono \
+  /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/ctime \
+  /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/ratio \
   /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/system_error \
   /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/__errc \
   /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/cerrno \
@@ -187,8 +206,6 @@ CMakeFiles/MyProgram.dir/main.cpp.o: \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/xlocale/_wchar.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/xlocale/_wctype.h \
   /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/streambuf \
-  /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/istream \
-  /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/ostream \
   /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/locale \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/nl_types.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/sys/types.h \
@@ -221,90 +238,24 @@ CMakeFiles/MyProgram.dir/main.cpp.o: \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/_types/_nl_item.h \
   /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/__bsd_locale_defaults.h \
   /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/bitset \
-  /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/__bit_reference \
-  /Users/sharadsingh/Dev/cpp_proj/stack_impl.cpp \
-  /Users/sharadsingh/Dev/cpp_proj/spop.h \
-  /usr/local/include/arrow/io/api.h \
-  /usr/local/include/arrow/io/buffered.h \
-  /usr/local/include/arrow/io/concurrency.h \
-  /usr/local/include/arrow/io/interfaces.h \
-  /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/vector \
-  /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/__split_buffer \
-  /usr/local/include/arrow/io/type_fwd.h \
-  /usr/local/include/arrow/type_fwd.h \
-  /usr/local/include/arrow/util/macros.h \
-  /usr/local/include/arrow/util/visibility.h \
-  /usr/local/include/arrow/util/cancel.h \
-  /usr/local/include/arrow/status.h \
-  /usr/local/include/arrow/util/compare.h \
-  /usr/local/include/arrow/util/string_util.h \
-  /usr/local/include/arrow/util/type_fwd.h \
-  /usr/local/include/arrow/result.h \
   /usr/local/include/arrow/util/aligned_storage.h \
   /usr/local/include/arrow/util/launder.h \
+  /usr/local/include/arrow/type_fwd.h \
   /usr/local/include/arrow/util/checked_cast.h \
-  /usr/local/include/arrow/io/compressed.h \
-  /usr/local/include/arrow/io/file.h /usr/local/include/arrow/io/hdfs.h \
-  /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/unordered_map \
-  /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/__hash_table \
-  /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/cmath \
-  /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/math.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/math.h \
-  /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/__node_handle \
-  /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/optional \
-  /usr/local/include/arrow/io/memory.h \
-  /usr/local/include/arrow/ipc/api.h \
-  /usr/local/include/arrow/ipc/dictionary.h \
-  /usr/local/include/arrow/ipc/feather.h \
-  /usr/local/include/arrow/ipc/options.h \
-  /usr/local/include/arrow/io/caching.h \
-  /usr/local/include/arrow/ipc/type_fwd.h \
-  /usr/local/include/arrow/util/align_util.h \
-  /usr/local/include/arrow/memory_pool.h \
-  /usr/local/include/arrow/util/bit_util.h \
-  /usr/local/include/arrow/util/compression.h \
-  /usr/local/include/arrow/ipc/message.h \
-  /usr/local/include/arrow/ipc/reader.h \
-  /usr/local/include/arrow/record_batch.h \
-  /usr/local/include/arrow/compare.h /usr/local/include/arrow/device.h \
-  /usr/local/include/arrow/util/iterator.h \
-  /usr/local/include/arrow/util/functional.h \
-  /usr/local/include/arrow/util/async_generator.h \
-  /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/deque \
-  /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/queue \
-  /usr/local/include/arrow/util/async_generator_fwd.h \
-  /usr/local/include/arrow/util/async_util.h \
-  /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/list \
-  /usr/local/include/arrow/util/future.h \
-  /usr/local/include/arrow/type_traits.h /usr/local/include/arrow/type.h \
-  /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/variant \
-  /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/array \
   /usr/local/include/arrow/util/endian.h \
   /usr/local/include/arrow/util/type_traits.h \
   /usr/local/include/arrow/util/ubsan.h \
-  /usr/local/include/arrow/visitor.h \
-  /usr/local/include/arrow/util/config.h \
-  /usr/local/include/arrow/util/tracing.h \
-  /usr/local/include/arrow/util/mutex.h \
-  /usr/local/include/arrow/util/thread_pool.h \
-  /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/unordered_set \
-  /usr/local/include/arrow/util/io_util.h \
-  /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/csignal \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/signal.h \
-  /usr/local/include/arrow/util/windows_fixup.h \
-  /usr/local/include/arrow/util/queue.h \
-  /usr/local/include/arrow/vendored/ProducerConsumerQueue.h \
-  /usr/local/include/arrow/ipc/writer.h /usr/local/include/arrow/api.h \
-  /usr/local/include/arrow/array.h \
-  /usr/local/include/arrow/array/array_base.h \
-  /usr/local/include/arrow/array/data.h \
-  /usr/local/include/arrow/array/statistics.h \
-  /usr/local/include/arrow/buffer.h /usr/local/include/arrow/util/span.h \
+  /usr/local/include/arrow/visitor.h /usr/local/include/arrow/buffer.h \
+  /usr/local/include/arrow/device.h \
+  /usr/local/include/arrow/io/type_fwd.h \
+  /usr/local/include/arrow/util/span.h \
+  /usr/local/include/arrow/util/bit_util.h \
   /usr/local/include/arrow/array/array_binary.h \
   /usr/local/include/arrow/stl_iterator.h \
   /usr/local/include/arrow/chunked_array.h \
   /usr/local/include/arrow/chunk_resolver.h \
   /usr/local/include/arrow/device_allocation_type_set.h \
+  /usr/local/include/arrow/type_traits.h \
   /usr/local/include/arrow/array/array_decimal.h \
   /usr/local/include/arrow/array/array_dict.h \
   /usr/local/include/arrow/array/array_nested.h \
@@ -317,6 +268,7 @@ CMakeFiles/MyProgram.dir/main.cpp.o: \
   /usr/local/include/arrow/array/builder_base.h \
   /usr/local/include/arrow/buffer_builder.h \
   /usr/local/include/arrow/util/bitmap_generate.h \
+  /usr/local/include/arrow/memory_pool.h \
   /usr/local/include/arrow/util/bitmap_ops.h \
   /usr/local/include/arrow/array/builder_binary.h \
   /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/numeric \
@@ -336,11 +288,77 @@ CMakeFiles/MyProgram.dir/main.cpp.o: \
   /usr/local/include/arrow/array/builder_run_end.h \
   /usr/local/include/arrow/array/builder_time.h \
   /usr/local/include/arrow/array/builder_union.h \
-  /usr/local/include/arrow/config.h /usr/local/include/arrow/datum.h \
+  /usr/local/include/arrow/config.h \
+  /usr/local/include/arrow/util/config.h \
+  /usr/local/include/arrow/datum.h \
   /usr/local/include/arrow/pretty_print.h \
+  /usr/local/include/arrow/record_batch.h \
+  /usr/local/include/arrow/util/iterator.h \
+  /usr/local/include/arrow/util/functional.h \
+  /usr/local/include/arrow/util/type_fwd.h \
   /usr/local/include/arrow/table.h \
   /usr/local/include/arrow/table_builder.h \
   /usr/local/include/arrow/tensor.h \
   /usr/local/include/arrow/util/key_value_metadata.h \
+  /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/unordered_map \
+  /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/__hash_table \
+  /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/cmath \
+  /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/math.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/math.h \
+  /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/__node_handle \
   /usr/local/include/arrow/visit_array_inline.h \
-  /usr/local/include/arrow/visit_scalar_inline.h
+  /usr/local/include/arrow/visit_scalar_inline.h \
+  /usr/local/include/arrow/io/api.h \
+  /usr/local/include/arrow/io/buffered.h \
+  /usr/local/include/arrow/io/concurrency.h \
+  /usr/local/include/arrow/io/interfaces.h \
+  /usr/local/include/arrow/util/cancel.h \
+  /usr/local/include/arrow/io/compressed.h \
+  /usr/local/include/arrow/io/file.h /usr/local/include/arrow/io/hdfs.h \
+  /usr/local/include/arrow/io/memory.h \
+  /usr/local/include/arrow/ipc/api.h \
+  /usr/local/include/arrow/ipc/dictionary.h \
+  /usr/local/include/arrow/ipc/feather.h \
+  /usr/local/include/arrow/ipc/options.h \
+  /usr/local/include/arrow/io/caching.h \
+  /usr/local/include/arrow/ipc/type_fwd.h \
+  /usr/local/include/arrow/util/align_util.h \
+  /usr/local/include/arrow/util/compression.h \
+  /usr/local/include/arrow/ipc/message.h \
+  /usr/local/include/arrow/ipc/reader.h \
+  /usr/local/include/arrow/util/async_generator.h \
+  /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/deque \
+  /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/queue \
+  /usr/local/include/arrow/util/async_generator_fwd.h \
+  /usr/local/include/arrow/util/async_util.h \
+  /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/list \
+  /usr/local/include/arrow/util/future.h \
+  /usr/local/include/arrow/util/tracing.h \
+  /usr/local/include/arrow/util/mutex.h \
+  /usr/local/include/arrow/util/thread_pool.h \
+  /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/unordered_set \
+  /usr/local/include/arrow/util/io_util.h \
+  /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/csignal \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/signal.h \
+  /usr/local/include/arrow/util/windows_fixup.h \
+  /usr/local/include/arrow/util/queue.h \
+  /usr/local/include/arrow/vendored/ProducerConsumerQueue.h \
+  /usr/local/include/arrow/ipc/writer.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/fcntl.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/sys/fcntl.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/sys/_types/_o_sync.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/sys/_types/_o_dsync.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/sys/_types/_seek_set.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/sys/_types/_s_ifmt.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/sys/_types/_filesec_t.h \
+  /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/iostream \
+  /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/istream \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/sys/mman.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/sys/stat.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/unistd.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/sys/unistd.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/sys/_types/_posix_vdisable.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/sys/select.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/sys/_select.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/sys/_types/_uuid_t.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/gethostuuid.h

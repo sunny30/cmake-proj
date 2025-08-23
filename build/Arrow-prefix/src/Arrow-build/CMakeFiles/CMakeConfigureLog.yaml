@@ -113,8 +113,8 @@ events:
     checks:
       - "Detecting C compiler ABI info"
     directories:
-      source: "/Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/CMakeFiles/CMakeScratch/TryCompile-WzI5F7"
-      binary: "/Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/CMakeFiles/CMakeScratch/TryCompile-WzI5F7"
+      source: "/Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/CMakeFiles/CMakeScratch/TryCompile-7z5rLG"
+      binary: "/Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/CMakeFiles/CMakeScratch/TryCompile-7z5rLG"
     cmakeVariables:
       CMAKE_C_FLAGS: ""
       CMAKE_C_FLAGS_DEBUG: "-g"
@@ -127,18 +127,18 @@ events:
       variable: "CMAKE_C_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: '/Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/CMakeFiles/CMakeScratch/TryCompile-WzI5F7'
+        Change Dir: '/Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/CMakeFiles/CMakeScratch/TryCompile-7z5rLG'
         
-        Run Build Command(s): /usr/local/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile cmTC_0875d/fast
-        /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_0875d.dir/build.make CMakeFiles/cmTC_0875d.dir/build
-        Building C object CMakeFiles/cmTC_0875d.dir/CMakeCCompilerABI.c.o
-        /usr/bin/cc   -v -Wl,-v -MD -MT CMakeFiles/cmTC_0875d.dir/CMakeCCompilerABI.c.o -MF CMakeFiles/cmTC_0875d.dir/CMakeCCompilerABI.c.o.d -o CMakeFiles/cmTC_0875d.dir/CMakeCCompilerABI.c.o -c /usr/local/share/cmake/Modules/CMakeCCompilerABI.c
+        Run Build Command(s): /usr/local/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile cmTC_d7c22/fast
+        /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_d7c22.dir/build.make CMakeFiles/cmTC_d7c22.dir/build
+        Building C object CMakeFiles/cmTC_d7c22.dir/CMakeCCompilerABI.c.o
+        /usr/bin/cc   -v -Wl,-v -MD -MT CMakeFiles/cmTC_d7c22.dir/CMakeCCompilerABI.c.o -MF CMakeFiles/cmTC_d7c22.dir/CMakeCCompilerABI.c.o.d -o CMakeFiles/cmTC_d7c22.dir/CMakeCCompilerABI.c.o -c /usr/local/share/cmake/Modules/CMakeCCompilerABI.c
         Apple clang version 11.0.0 (clang-1100.0.33.17)
         Target: x86_64-apple-darwin19.2.0
         Thread model: posix
         InstalledDir: /Library/Developer/CommandLineTools/usr/bin
         clang: warning: -Wl,-v: 'linker' input unused [-Wunused-command-line-argument]
-         "/Library/Developer/CommandLineTools/usr/bin/clang" -cc1 -triple x86_64-apple-macosx10.15.0 -Wdeprecated-objc-isa-usage -Werror=deprecated-objc-isa-usage -emit-obj -mrelax-all -disable-free -disable-llvm-verifier -discard-value-names -main-file-name CMakeCCompilerABI.c -mrelocation-model pic -pic-level 2 -mthread-model posix -mdisable-fp-elim -fno-strict-return -masm-verbose -munwind-tables -target-sdk-version=10.15 -target-cpu penryn -dwarf-column-info -debugger-tuning=lldb -ggnu-pubnames -target-linker-version 530 -v -coverage-notes-file /Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/CMakeFiles/CMakeScratch/TryCompile-WzI5F7/CMakeFiles/cmTC_0875d.dir/CMakeCCompilerABI.c.gcno -resource-dir /Library/Developer/CommandLineTools/usr/lib/clang/11.0.0 -dependency-file CMakeFiles/cmTC_0875d.dir/CMakeCCompilerABI.c.o.d -skip-unused-modulemap-deps -sys-header-deps -MT CMakeFiles/cmTC_0875d.dir/CMakeCCompilerABI.c.o -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk -I/usr/local/include -Wno-framework-include-private-from-public -Wno-atimport-in-framework-header -Wno-extra-semi-stmt -Wno-quoted-include-in-framework-header -fdebug-compilation-dir /Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/CMakeFiles/CMakeScratch/TryCompile-WzI5F7 -ferror-limit 19 -fmessage-length 0 -stack-protector 1 -fstack-check -mdarwin-stkchk-strong-link -fblocks -fencode-extended-block-signature -fregister-global-dtors-with-atexit -fobjc-runtime=macosx-10.15.0 -fmax-type-align=16 -fdiagnostics-show-option -o CMakeFiles/cmTC_0875d.dir/CMakeCCompilerABI.c.o -x c /usr/local/share/cmake/Modules/CMakeCCompilerABI.c
+         "/Library/Developer/CommandLineTools/usr/bin/clang" -cc1 -triple x86_64-apple-macosx10.15.0 -Wdeprecated-objc-isa-usage -Werror=deprecated-objc-isa-usage -emit-obj -mrelax-all -disable-free -disable-llvm-verifier -discard-value-names -main-file-name CMakeCCompilerABI.c -mrelocation-model pic -pic-level 2 -mthread-model posix -mdisable-fp-elim -fno-strict-return -masm-verbose -munwind-tables -target-sdk-version=10.15 -target-cpu penryn -dwarf-column-info -debugger-tuning=lldb -ggnu-pubnames -target-linker-version 530 -v -coverage-notes-file /Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/CMakeFiles/CMakeScratch/TryCompile-7z5rLG/CMakeFiles/cmTC_d7c22.dir/CMakeCCompilerABI.c.gcno -resource-dir /Library/Developer/CommandLineTools/usr/lib/clang/11.0.0 -dependency-file CMakeFiles/cmTC_d7c22.dir/CMakeCCompilerABI.c.o.d -skip-unused-modulemap-deps -sys-header-deps -MT CMakeFiles/cmTC_d7c22.dir/CMakeCCompilerABI.c.o -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk -I/usr/local/include -Wno-framework-include-private-from-public -Wno-atimport-in-framework-header -Wno-extra-semi-stmt -Wno-quoted-include-in-framework-header -fdebug-compilation-dir /Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/CMakeFiles/CMakeScratch/TryCompile-7z5rLG -ferror-limit 19 -fmessage-length 0 -stack-protector 1 -fstack-check -mdarwin-stkchk-strong-link -fblocks -fencode-extended-block-signature -fregister-global-dtors-with-atexit -fobjc-runtime=macosx-10.15.0 -fmax-type-align=16 -fdiagnostics-show-option -o CMakeFiles/cmTC_d7c22.dir/CMakeCCompilerABI.c.o -x c /usr/local/share/cmake/Modules/CMakeCCompilerABI.c
         clang -cc1 version 11.0.0 (clang-1100.0.33.17) default target x86_64-apple-darwin19.2.0
         ignoring nonexistent directory "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/local/include"
         ignoring nonexistent directory "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/Library/Frameworks"
@@ -150,13 +150,13 @@ events:
          /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include
          /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks (framework directory)
         End of search list.
-        Linking C executable cmTC_0875d
-        /usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_0875d.dir/link.txt --verbose=1
+        Linking C executable cmTC_d7c22
+        /usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_d7c22.dir/link.txt --verbose=1
         Apple clang version 11.0.0 (clang-1100.0.33.17)
         Target: x86_64-apple-darwin19.2.0
         Thread model: posix
         InstalledDir: /Library/Developer/CommandLineTools/usr/bin
-         "/Library/Developer/CommandLineTools/usr/bin/ld" -demangle -lto_library /Library/Developer/CommandLineTools/usr/lib/libLTO.dylib -dynamic -arch x86_64 -macosx_version_min 10.15.0 -syslibroot /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk -o cmTC_0875d -search_paths_first -headerpad_max_install_names -v CMakeFiles/cmTC_0875d.dir/CMakeCCompilerABI.c.o -L/usr/local/lib -lSystem /Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/lib/darwin/libclang_rt.osx.a
+         "/Library/Developer/CommandLineTools/usr/bin/ld" -demangle -lto_library /Library/Developer/CommandLineTools/usr/lib/libLTO.dylib -dynamic -arch x86_64 -macosx_version_min 10.15.0 -syslibroot /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk -o cmTC_d7c22 -search_paths_first -headerpad_max_install_names -v CMakeFiles/cmTC_d7c22.dir/CMakeCCompilerABI.c.o -L/usr/local/lib -lSystem /Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/lib/darwin/libclang_rt.osx.a
         @(#)PROGRAM:ld  PROJECT:ld64-530
         BUILD 18:57:17 Dec 13 2019
         configured to support archs: armv6 armv7 armv7s arm64 arm64e arm64_32 i386 x86_64 x86_64h armv6m armv7k armv7m armv7em
@@ -165,7 +165,7 @@ events:
         	/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/lib
         Framework search paths:
         	/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/
-        /usr/bin/cc -Wl,-search_paths_first -Wl,-headerpad_max_install_names  -v -Wl,-v CMakeFiles/cmTC_0875d.dir/CMakeCCompilerABI.c.o -o cmTC_0875d
+        /usr/bin/cc -Wl,-search_paths_first -Wl,-headerpad_max_install_names  -v -Wl,-v CMakeFiles/cmTC_d7c22.dir/CMakeCCompilerABI.c.o -o cmTC_d7c22
         
       exitCode: 0
   -
@@ -209,18 +209,18 @@ events:
       Parsed C implicit link information:
         link line regex: [^( *|.*[/\\])(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
         linker tool regex: [^[ 	]*(->|")?[ 	]*(([^"]*[/\\])?(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)))("|,| |$)]
-        ignore line: [Change Dir: '/Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/CMakeFiles/CMakeScratch/TryCompile-WzI5F7']
+        ignore line: [Change Dir: '/Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/CMakeFiles/CMakeScratch/TryCompile-7z5rLG']
         ignore line: []
-        ignore line: [Run Build Command(s): /usr/local/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile cmTC_0875d/fast]
-        ignore line: [/Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_0875d.dir/build.make CMakeFiles/cmTC_0875d.dir/build]
-        ignore line: [Building C object CMakeFiles/cmTC_0875d.dir/CMakeCCompilerABI.c.o]
-        ignore line: [/usr/bin/cc   -v -Wl -v -MD -MT CMakeFiles/cmTC_0875d.dir/CMakeCCompilerABI.c.o -MF CMakeFiles/cmTC_0875d.dir/CMakeCCompilerABI.c.o.d -o CMakeFiles/cmTC_0875d.dir/CMakeCCompilerABI.c.o -c /usr/local/share/cmake/Modules/CMakeCCompilerABI.c]
+        ignore line: [Run Build Command(s): /usr/local/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile cmTC_d7c22/fast]
+        ignore line: [/Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_d7c22.dir/build.make CMakeFiles/cmTC_d7c22.dir/build]
+        ignore line: [Building C object CMakeFiles/cmTC_d7c22.dir/CMakeCCompilerABI.c.o]
+        ignore line: [/usr/bin/cc   -v -Wl -v -MD -MT CMakeFiles/cmTC_d7c22.dir/CMakeCCompilerABI.c.o -MF CMakeFiles/cmTC_d7c22.dir/CMakeCCompilerABI.c.o.d -o CMakeFiles/cmTC_d7c22.dir/CMakeCCompilerABI.c.o -c /usr/local/share/cmake/Modules/CMakeCCompilerABI.c]
         ignore line: [Apple clang version 11.0.0 (clang-1100.0.33.17)]
         ignore line: [Target: x86_64-apple-darwin19.2.0]
         ignore line: [Thread model: posix]
         ignore line: [InstalledDir: /Library/Developer/CommandLineTools/usr/bin]
         ignore line: [clang: warning: -Wl -v: 'linker' input unused [-Wunused-command-line-argument]]
-        ignore line: [ "/Library/Developer/CommandLineTools/usr/bin/clang" -cc1 -triple x86_64-apple-macosx10.15.0 -Wdeprecated-objc-isa-usage -Werror=deprecated-objc-isa-usage -emit-obj -mrelax-all -disable-free -disable-llvm-verifier -discard-value-names -main-file-name CMakeCCompilerABI.c -mrelocation-model pic -pic-level 2 -mthread-model posix -mdisable-fp-elim -fno-strict-return -masm-verbose -munwind-tables -target-sdk-version=10.15 -target-cpu penryn -dwarf-column-info -debugger-tuning=lldb -ggnu-pubnames -target-linker-version 530 -v -coverage-notes-file /Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/CMakeFiles/CMakeScratch/TryCompile-WzI5F7/CMakeFiles/cmTC_0875d.dir/CMakeCCompilerABI.c.gcno -resource-dir /Library/Developer/CommandLineTools/usr/lib/clang/11.0.0 -dependency-file CMakeFiles/cmTC_0875d.dir/CMakeCCompilerABI.c.o.d -skip-unused-modulemap-deps -sys-header-deps -MT CMakeFiles/cmTC_0875d.dir/CMakeCCompilerABI.c.o -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk -I/usr/local/include -Wno-framework-include-private-from-public -Wno-atimport-in-framework-header -Wno-extra-semi-stmt -Wno-quoted-include-in-framework-header -fdebug-compilation-dir /Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/CMakeFiles/CMakeScratch/TryCompile-WzI5F7 -ferror-limit 19 -fmessage-length 0 -stack-protector 1 -fstack-check -mdarwin-stkchk-strong-link -fblocks -fencode-extended-block-signature -fregister-global-dtors-with-atexit -fobjc-runtime=macosx-10.15.0 -fmax-type-align=16 -fdiagnostics-show-option -o CMakeFiles/cmTC_0875d.dir/CMakeCCompilerABI.c.o -x c /usr/local/share/cmake/Modules/CMakeCCompilerABI.c]
+        ignore line: [ "/Library/Developer/CommandLineTools/usr/bin/clang" -cc1 -triple x86_64-apple-macosx10.15.0 -Wdeprecated-objc-isa-usage -Werror=deprecated-objc-isa-usage -emit-obj -mrelax-all -disable-free -disable-llvm-verifier -discard-value-names -main-file-name CMakeCCompilerABI.c -mrelocation-model pic -pic-level 2 -mthread-model posix -mdisable-fp-elim -fno-strict-return -masm-verbose -munwind-tables -target-sdk-version=10.15 -target-cpu penryn -dwarf-column-info -debugger-tuning=lldb -ggnu-pubnames -target-linker-version 530 -v -coverage-notes-file /Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/CMakeFiles/CMakeScratch/TryCompile-7z5rLG/CMakeFiles/cmTC_d7c22.dir/CMakeCCompilerABI.c.gcno -resource-dir /Library/Developer/CommandLineTools/usr/lib/clang/11.0.0 -dependency-file CMakeFiles/cmTC_d7c22.dir/CMakeCCompilerABI.c.o.d -skip-unused-modulemap-deps -sys-header-deps -MT CMakeFiles/cmTC_d7c22.dir/CMakeCCompilerABI.c.o -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk -I/usr/local/include -Wno-framework-include-private-from-public -Wno-atimport-in-framework-header -Wno-extra-semi-stmt -Wno-quoted-include-in-framework-header -fdebug-compilation-dir /Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/CMakeFiles/CMakeScratch/TryCompile-7z5rLG -ferror-limit 19 -fmessage-length 0 -stack-protector 1 -fstack-check -mdarwin-stkchk-strong-link -fblocks -fencode-extended-block-signature -fregister-global-dtors-with-atexit -fobjc-runtime=macosx-10.15.0 -fmax-type-align=16 -fdiagnostics-show-option -o CMakeFiles/cmTC_d7c22.dir/CMakeCCompilerABI.c.o -x c /usr/local/share/cmake/Modules/CMakeCCompilerABI.c]
         ignore line: [clang -cc1 version 11.0.0 (clang-1100.0.33.17) default target x86_64-apple-darwin19.2.0]
         ignore line: [ignoring nonexistent directory "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/local/include"]
         ignore line: [ignoring nonexistent directory "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/Library/Frameworks"]
@@ -232,13 +232,13 @@ events:
         ignore line: [ /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include]
         ignore line: [ /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks (framework directory)]
         ignore line: [End of search list.]
-        ignore line: [Linking C executable cmTC_0875d]
-        ignore line: [/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_0875d.dir/link.txt --verbose=1]
+        ignore line: [Linking C executable cmTC_d7c22]
+        ignore line: [/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_d7c22.dir/link.txt --verbose=1]
         ignore line: [Apple clang version 11.0.0 (clang-1100.0.33.17)]
         ignore line: [Target: x86_64-apple-darwin19.2.0]
         ignore line: [Thread model: posix]
         ignore line: [InstalledDir: /Library/Developer/CommandLineTools/usr/bin]
-        link line: [ "/Library/Developer/CommandLineTools/usr/bin/ld" -demangle -lto_library /Library/Developer/CommandLineTools/usr/lib/libLTO.dylib -dynamic -arch x86_64 -macosx_version_min 10.15.0 -syslibroot /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk -o cmTC_0875d -search_paths_first -headerpad_max_install_names -v CMakeFiles/cmTC_0875d.dir/CMakeCCompilerABI.c.o -L/usr/local/lib -lSystem /Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/lib/darwin/libclang_rt.osx.a]
+        link line: [ "/Library/Developer/CommandLineTools/usr/bin/ld" -demangle -lto_library /Library/Developer/CommandLineTools/usr/lib/libLTO.dylib -dynamic -arch x86_64 -macosx_version_min 10.15.0 -syslibroot /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk -o cmTC_d7c22 -search_paths_first -headerpad_max_install_names -v CMakeFiles/cmTC_d7c22.dir/CMakeCCompilerABI.c.o -L/usr/local/lib -lSystem /Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/lib/darwin/libclang_rt.osx.a]
           arg [/Library/Developer/CommandLineTools/usr/bin/ld] ==> ignore
           arg [-demangle] ==> ignore
           arg [-lto_library] ==> ignore, skip following value
@@ -251,11 +251,11 @@ events:
           arg [-syslibroot] ==> ignore
           arg [/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk] ==> ignore
           arg [-o] ==> ignore
-          arg [cmTC_0875d] ==> ignore
+          arg [cmTC_d7c22] ==> ignore
           arg [-search_paths_first] ==> ignore
           arg [-headerpad_max_install_names] ==> ignore
           arg [-v] ==> ignore
-          arg [CMakeFiles/cmTC_0875d.dir/CMakeCCompilerABI.c.o] ==> ignore
+          arg [CMakeFiles/cmTC_d7c22.dir/CMakeCCompilerABI.c.o] ==> ignore
           arg [-L/usr/local/lib] ==> dir [/usr/local/lib]
           arg [-lSystem] ==> lib [System]
           arg [/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/lib/darwin/libclang_rt.osx.a] ==> lib [/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/lib/darwin/libclang_rt.osx.a]
@@ -297,8 +297,8 @@ events:
     checks:
       - "Detecting CXX compiler ABI info"
     directories:
-      source: "/Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/CMakeFiles/CMakeScratch/TryCompile-ejQLaH"
-      binary: "/Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/CMakeFiles/CMakeScratch/TryCompile-ejQLaH"
+      source: "/Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/CMakeFiles/CMakeScratch/TryCompile-PTc76S"
+      binary: "/Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/CMakeFiles/CMakeScratch/TryCompile-PTc76S"
     cmakeVariables:
       CMAKE_CXX_FLAGS: ""
       CMAKE_CXX_FLAGS_DEBUG: "-g"
@@ -312,18 +312,18 @@ events:
       variable: "CMAKE_CXX_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: '/Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/CMakeFiles/CMakeScratch/TryCompile-ejQLaH'
+        Change Dir: '/Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/CMakeFiles/CMakeScratch/TryCompile-PTc76S'
         
-        Run Build Command(s): /usr/local/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile cmTC_ceb92/fast
-        /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_ceb92.dir/build.make CMakeFiles/cmTC_ceb92.dir/build
-        Building CXX object CMakeFiles/cmTC_ceb92.dir/CMakeCXXCompilerABI.cpp.o
-        /usr/bin/c++   -v -Wl,-v -MD -MT CMakeFiles/cmTC_ceb92.dir/CMakeCXXCompilerABI.cpp.o -MF CMakeFiles/cmTC_ceb92.dir/CMakeCXXCompilerABI.cpp.o.d -o CMakeFiles/cmTC_ceb92.dir/CMakeCXXCompilerABI.cpp.o -c /usr/local/share/cmake/Modules/CMakeCXXCompilerABI.cpp
+        Run Build Command(s): /usr/local/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile cmTC_b4630/fast
+        /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_b4630.dir/build.make CMakeFiles/cmTC_b4630.dir/build
+        Building CXX object CMakeFiles/cmTC_b4630.dir/CMakeCXXCompilerABI.cpp.o
+        /usr/bin/c++   -v -Wl,-v -MD -MT CMakeFiles/cmTC_b4630.dir/CMakeCXXCompilerABI.cpp.o -MF CMakeFiles/cmTC_b4630.dir/CMakeCXXCompilerABI.cpp.o.d -o CMakeFiles/cmTC_b4630.dir/CMakeCXXCompilerABI.cpp.o -c /usr/local/share/cmake/Modules/CMakeCXXCompilerABI.cpp
         Apple clang version 11.0.0 (clang-1100.0.33.17)
         Target: x86_64-apple-darwin19.2.0
         Thread model: posix
         InstalledDir: /Library/Developer/CommandLineTools/usr/bin
         clang: warning: -Wl,-v: 'linker' input unused [-Wunused-command-line-argument]
-         "/Library/Developer/CommandLineTools/usr/bin/clang" -cc1 -triple x86_64-apple-macosx10.15.0 -Wdeprecated-objc-isa-usage -Werror=deprecated-objc-isa-usage -emit-obj -mrelax-all -disable-free -disable-llvm-verifier -discard-value-names -main-file-name CMakeCXXCompilerABI.cpp -mrelocation-model pic -pic-level 2 -mthread-model posix -mdisable-fp-elim -fno-strict-return -masm-verbose -munwind-tables -target-sdk-version=10.15 -target-cpu penryn -dwarf-column-info -debugger-tuning=lldb -ggnu-pubnames -target-linker-version 530 -v -coverage-notes-file /Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/CMakeFiles/CMakeScratch/TryCompile-ejQLaH/CMakeFiles/cmTC_ceb92.dir/CMakeCXXCompilerABI.cpp.gcno -resource-dir /Library/Developer/CommandLineTools/usr/lib/clang/11.0.0 -dependency-file CMakeFiles/cmTC_ceb92.dir/CMakeCXXCompilerABI.cpp.o.d -skip-unused-modulemap-deps -sys-header-deps -MT CMakeFiles/cmTC_ceb92.dir/CMakeCXXCompilerABI.cpp.o -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk -I/usr/local/include -stdlib=libc++ -internal-isystem /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1 -Wno-framework-include-private-from-public -Wno-atimport-in-framework-header -Wno-extra-semi-stmt -Wno-quoted-include-in-framework-header -fdeprecated-macro -fdebug-compilation-dir /Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/CMakeFiles/CMakeScratch/TryCompile-ejQLaH -ferror-limit 19 -fmessage-length 0 -stack-protector 1 -fstack-check -mdarwin-stkchk-strong-link -fblocks -fencode-extended-block-signature -fregister-global-dtors-with-atexit -fobjc-runtime=macosx-10.15.0 -fcxx-exceptions -fexceptions -fmax-type-align=16 -fdiagnostics-show-option -o CMakeFiles/cmTC_ceb92.dir/CMakeCXXCompilerABI.cpp.o -x c++ /usr/local/share/cmake/Modules/CMakeCXXCompilerABI.cpp
+         "/Library/Developer/CommandLineTools/usr/bin/clang" -cc1 -triple x86_64-apple-macosx10.15.0 -Wdeprecated-objc-isa-usage -Werror=deprecated-objc-isa-usage -emit-obj -mrelax-all -disable-free -disable-llvm-verifier -discard-value-names -main-file-name CMakeCXXCompilerABI.cpp -mrelocation-model pic -pic-level 2 -mthread-model posix -mdisable-fp-elim -fno-strict-return -masm-verbose -munwind-tables -target-sdk-version=10.15 -target-cpu penryn -dwarf-column-info -debugger-tuning=lldb -ggnu-pubnames -target-linker-version 530 -v -coverage-notes-file /Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/CMakeFiles/CMakeScratch/TryCompile-PTc76S/CMakeFiles/cmTC_b4630.dir/CMakeCXXCompilerABI.cpp.gcno -resource-dir /Library/Developer/CommandLineTools/usr/lib/clang/11.0.0 -dependency-file CMakeFiles/cmTC_b4630.dir/CMakeCXXCompilerABI.cpp.o.d -skip-unused-modulemap-deps -sys-header-deps -MT CMakeFiles/cmTC_b4630.dir/CMakeCXXCompilerABI.cpp.o -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk -I/usr/local/include -stdlib=libc++ -internal-isystem /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1 -Wno-framework-include-private-from-public -Wno-atimport-in-framework-header -Wno-extra-semi-stmt -Wno-quoted-include-in-framework-header -fdeprecated-macro -fdebug-compilation-dir /Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/CMakeFiles/CMakeScratch/TryCompile-PTc76S -ferror-limit 19 -fmessage-length 0 -stack-protector 1 -fstack-check -mdarwin-stkchk-strong-link -fblocks -fencode-extended-block-signature -fregister-global-dtors-with-atexit -fobjc-runtime=macosx-10.15.0 -fcxx-exceptions -fexceptions -fmax-type-align=16 -fdiagnostics-show-option -o CMakeFiles/cmTC_b4630.dir/CMakeCXXCompilerABI.cpp.o -x c++ /usr/local/share/cmake/Modules/CMakeCXXCompilerABI.cpp
         clang -cc1 version 11.0.0 (clang-1100.0.33.17) default target x86_64-apple-darwin19.2.0
         ignoring nonexistent directory "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1"
         ignoring nonexistent directory "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/local/include"
@@ -337,13 +337,13 @@ events:
          /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include
          /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks (framework directory)
         End of search list.
-        Linking CXX executable cmTC_ceb92
-        /usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_ceb92.dir/link.txt --verbose=1
+        Linking CXX executable cmTC_b4630
+        /usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_b4630.dir/link.txt --verbose=1
         Apple clang version 11.0.0 (clang-1100.0.33.17)
         Target: x86_64-apple-darwin19.2.0
         Thread model: posix
         InstalledDir: /Library/Developer/CommandLineTools/usr/bin
-         "/Library/Developer/CommandLineTools/usr/bin/ld" -demangle -lto_library /Library/Developer/CommandLineTools/usr/lib/libLTO.dylib -dynamic -arch x86_64 -macosx_version_min 10.15.0 -syslibroot /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk -o cmTC_ceb92 -search_paths_first -headerpad_max_install_names -v CMakeFiles/cmTC_ceb92.dir/CMakeCXXCompilerABI.cpp.o -L/usr/local/lib -lc++ -lSystem /Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/lib/darwin/libclang_rt.osx.a
+         "/Library/Developer/CommandLineTools/usr/bin/ld" -demangle -lto_library /Library/Developer/CommandLineTools/usr/lib/libLTO.dylib -dynamic -arch x86_64 -macosx_version_min 10.15.0 -syslibroot /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk -o cmTC_b4630 -search_paths_first -headerpad_max_install_names -v CMakeFiles/cmTC_b4630.dir/CMakeCXXCompilerABI.cpp.o -L/usr/local/lib -lc++ -lSystem /Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/lib/darwin/libclang_rt.osx.a
         @(#)PROGRAM:ld  PROJECT:ld64-530
         BUILD 18:57:17 Dec 13 2019
         configured to support archs: armv6 armv7 armv7s arm64 arm64e arm64_32 i386 x86_64 x86_64h armv6m armv7k armv7m armv7em
@@ -352,7 +352,7 @@ events:
         	/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/lib
         Framework search paths:
         	/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/
-        /usr/bin/c++ -Wl,-search_paths_first -Wl,-headerpad_max_install_names  -v -Wl,-v CMakeFiles/cmTC_ceb92.dir/CMakeCXXCompilerABI.cpp.o -o cmTC_ceb92
+        /usr/bin/c++ -Wl,-search_paths_first -Wl,-headerpad_max_install_names  -v -Wl,-v CMakeFiles/cmTC_b4630.dir/CMakeCXXCompilerABI.cpp.o -o cmTC_b4630
         
       exitCode: 0
   -
@@ -398,18 +398,18 @@ events:
       Parsed CXX implicit link information:
         link line regex: [^( *|.*[/\\])(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
         linker tool regex: [^[ 	]*(->|")?[ 	]*(([^"]*[/\\])?(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)))("|,| |$)]
-        ignore line: [Change Dir: '/Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/CMakeFiles/CMakeScratch/TryCompile-ejQLaH']
+        ignore line: [Change Dir: '/Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/CMakeFiles/CMakeScratch/TryCompile-PTc76S']
         ignore line: []
-        ignore line: [Run Build Command(s): /usr/local/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile cmTC_ceb92/fast]
-        ignore line: [/Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_ceb92.dir/build.make CMakeFiles/cmTC_ceb92.dir/build]
-        ignore line: [Building CXX object CMakeFiles/cmTC_ceb92.dir/CMakeCXXCompilerABI.cpp.o]
-        ignore line: [/usr/bin/c++   -v -Wl -v -MD -MT CMakeFiles/cmTC_ceb92.dir/CMakeCXXCompilerABI.cpp.o -MF CMakeFiles/cmTC_ceb92.dir/CMakeCXXCompilerABI.cpp.o.d -o CMakeFiles/cmTC_ceb92.dir/CMakeCXXCompilerABI.cpp.o -c /usr/local/share/cmake/Modules/CMakeCXXCompilerABI.cpp]
+        ignore line: [Run Build Command(s): /usr/local/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile cmTC_b4630/fast]
+        ignore line: [/Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_b4630.dir/build.make CMakeFiles/cmTC_b4630.dir/build]
+        ignore line: [Building CXX object CMakeFiles/cmTC_b4630.dir/CMakeCXXCompilerABI.cpp.o]
+        ignore line: [/usr/bin/c++   -v -Wl -v -MD -MT CMakeFiles/cmTC_b4630.dir/CMakeCXXCompilerABI.cpp.o -MF CMakeFiles/cmTC_b4630.dir/CMakeCXXCompilerABI.cpp.o.d -o CMakeFiles/cmTC_b4630.dir/CMakeCXXCompilerABI.cpp.o -c /usr/local/share/cmake/Modules/CMakeCXXCompilerABI.cpp]
         ignore line: [Apple clang version 11.0.0 (clang-1100.0.33.17)]
         ignore line: [Target: x86_64-apple-darwin19.2.0]
         ignore line: [Thread model: posix]
         ignore line: [InstalledDir: /Library/Developer/CommandLineTools/usr/bin]
         ignore line: [clang: warning: -Wl -v: 'linker' input unused [-Wunused-command-line-argument]]
-        ignore line: [ "/Library/Developer/CommandLineTools/usr/bin/clang" -cc1 -triple x86_64-apple-macosx10.15.0 -Wdeprecated-objc-isa-usage -Werror=deprecated-objc-isa-usage -emit-obj -mrelax-all -disable-free -disable-llvm-verifier -discard-value-names -main-file-name CMakeCXXCompilerABI.cpp -mrelocation-model pic -pic-level 2 -mthread-model posix -mdisable-fp-elim -fno-strict-return -masm-verbose -munwind-tables -target-sdk-version=10.15 -target-cpu penryn -dwarf-column-info -debugger-tuning=lldb -ggnu-pubnames -target-linker-version 530 -v -coverage-notes-file /Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/CMakeFiles/CMakeScratch/TryCompile-ejQLaH/CMakeFiles/cmTC_ceb92.dir/CMakeCXXCompilerABI.cpp.gcno -resource-dir /Library/Developer/CommandLineTools/usr/lib/clang/11.0.0 -dependency-file CMakeFiles/cmTC_ceb92.dir/CMakeCXXCompilerABI.cpp.o.d -skip-unused-modulemap-deps -sys-header-deps -MT CMakeFiles/cmTC_ceb92.dir/CMakeCXXCompilerABI.cpp.o -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk -I/usr/local/include -stdlib=libc++ -internal-isystem /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1 -Wno-framework-include-private-from-public -Wno-atimport-in-framework-header -Wno-extra-semi-stmt -Wno-quoted-include-in-framework-header -fdeprecated-macro -fdebug-compilation-dir /Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/CMakeFiles/CMakeScratch/TryCompile-ejQLaH -ferror-limit 19 -fmessage-length 0 -stack-protector 1 -fstack-check -mdarwin-stkchk-strong-link -fblocks -fencode-extended-block-signature -fregister-global-dtors-with-atexit -fobjc-runtime=macosx-10.15.0 -fcxx-exceptions -fexceptions -fmax-type-align=16 -fdiagnostics-show-option -o CMakeFiles/cmTC_ceb92.dir/CMakeCXXCompilerABI.cpp.o -x c++ /usr/local/share/cmake/Modules/CMakeCXXCompilerABI.cpp]
+        ignore line: [ "/Library/Developer/CommandLineTools/usr/bin/clang" -cc1 -triple x86_64-apple-macosx10.15.0 -Wdeprecated-objc-isa-usage -Werror=deprecated-objc-isa-usage -emit-obj -mrelax-all -disable-free -disable-llvm-verifier -discard-value-names -main-file-name CMakeCXXCompilerABI.cpp -mrelocation-model pic -pic-level 2 -mthread-model posix -mdisable-fp-elim -fno-strict-return -masm-verbose -munwind-tables -target-sdk-version=10.15 -target-cpu penryn -dwarf-column-info -debugger-tuning=lldb -ggnu-pubnames -target-linker-version 530 -v -coverage-notes-file /Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/CMakeFiles/CMakeScratch/TryCompile-PTc76S/CMakeFiles/cmTC_b4630.dir/CMakeCXXCompilerABI.cpp.gcno -resource-dir /Library/Developer/CommandLineTools/usr/lib/clang/11.0.0 -dependency-file CMakeFiles/cmTC_b4630.dir/CMakeCXXCompilerABI.cpp.o.d -skip-unused-modulemap-deps -sys-header-deps -MT CMakeFiles/cmTC_b4630.dir/CMakeCXXCompilerABI.cpp.o -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk -I/usr/local/include -stdlib=libc++ -internal-isystem /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1 -Wno-framework-include-private-from-public -Wno-atimport-in-framework-header -Wno-extra-semi-stmt -Wno-quoted-include-in-framework-header -fdeprecated-macro -fdebug-compilation-dir /Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/CMakeFiles/CMakeScratch/TryCompile-PTc76S -ferror-limit 19 -fmessage-length 0 -stack-protector 1 -fstack-check -mdarwin-stkchk-strong-link -fblocks -fencode-extended-block-signature -fregister-global-dtors-with-atexit -fobjc-runtime=macosx-10.15.0 -fcxx-exceptions -fexceptions -fmax-type-align=16 -fdiagnostics-show-option -o CMakeFiles/cmTC_b4630.dir/CMakeCXXCompilerABI.cpp.o -x c++ /usr/local/share/cmake/Modules/CMakeCXXCompilerABI.cpp]
         ignore line: [clang -cc1 version 11.0.0 (clang-1100.0.33.17) default target x86_64-apple-darwin19.2.0]
         ignore line: [ignoring nonexistent directory "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1"]
         ignore line: [ignoring nonexistent directory "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/local/include"]
@@ -423,13 +423,13 @@ events:
         ignore line: [ /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include]
         ignore line: [ /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks (framework directory)]
         ignore line: [End of search list.]
-        ignore line: [Linking CXX executable cmTC_ceb92]
-        ignore line: [/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_ceb92.dir/link.txt --verbose=1]
+        ignore line: [Linking CXX executable cmTC_b4630]
+        ignore line: [/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_b4630.dir/link.txt --verbose=1]
         ignore line: [Apple clang version 11.0.0 (clang-1100.0.33.17)]
         ignore line: [Target: x86_64-apple-darwin19.2.0]
         ignore line: [Thread model: posix]
         ignore line: [InstalledDir: /Library/Developer/CommandLineTools/usr/bin]
-        link line: [ "/Library/Developer/CommandLineTools/usr/bin/ld" -demangle -lto_library /Library/Developer/CommandLineTools/usr/lib/libLTO.dylib -dynamic -arch x86_64 -macosx_version_min 10.15.0 -syslibroot /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk -o cmTC_ceb92 -search_paths_first -headerpad_max_install_names -v CMakeFiles/cmTC_ceb92.dir/CMakeCXXCompilerABI.cpp.o -L/usr/local/lib -lc++ -lSystem /Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/lib/darwin/libclang_rt.osx.a]
+        link line: [ "/Library/Developer/CommandLineTools/usr/bin/ld" -demangle -lto_library /Library/Developer/CommandLineTools/usr/lib/libLTO.dylib -dynamic -arch x86_64 -macosx_version_min 10.15.0 -syslibroot /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk -o cmTC_b4630 -search_paths_first -headerpad_max_install_names -v CMakeFiles/cmTC_b4630.dir/CMakeCXXCompilerABI.cpp.o -L/usr/local/lib -lc++ -lSystem /Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/lib/darwin/libclang_rt.osx.a]
           arg [/Library/Developer/CommandLineTools/usr/bin/ld] ==> ignore
           arg [-demangle] ==> ignore
           arg [-lto_library] ==> ignore, skip following value
@@ -442,11 +442,11 @@ events:
           arg [-syslibroot] ==> ignore
           arg [/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk] ==> ignore
           arg [-o] ==> ignore
-          arg [cmTC_ceb92] ==> ignore
+          arg [cmTC_b4630] ==> ignore
           arg [-search_paths_first] ==> ignore
           arg [-headerpad_max_install_names] ==> ignore
           arg [-v] ==> ignore
-          arg [CMakeFiles/cmTC_ceb92.dir/CMakeCXXCompilerABI.cpp.o] ==> ignore
+          arg [CMakeFiles/cmTC_b4630.dir/CMakeCXXCompilerABI.cpp.o] ==> ignore
           arg [-L/usr/local/lib] ==> dir [/usr/local/lib]
           arg [-lc++] ==> lib [c++]
           arg [-lSystem] ==> lib [System]
@@ -491,8 +491,8 @@ events:
     checks:
       - "Performing Test CXX_SUPPORTS_SSE4_2"
     directories:
-      source: "/Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/CMakeFiles/CMakeScratch/TryCompile-F36J8g"
-      binary: "/Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/CMakeFiles/CMakeScratch/TryCompile-F36J8g"
+      source: "/Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/CMakeFiles/CMakeScratch/TryCompile-4rhCSy"
+      binary: "/Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/CMakeFiles/CMakeScratch/TryCompile-4rhCSy"
     cmakeVariables:
       CMAKE_CXX_FLAGS: ""
       CMAKE_CXX_FLAGS_DEBUG: "-g"
@@ -505,15 +505,15 @@ events:
       variable: "CXX_SUPPORTS_SSE4_2"
       cached: true
       stdout: |
-        Change Dir: '/Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/CMakeFiles/CMakeScratch/TryCompile-F36J8g'
+        Change Dir: '/Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/CMakeFiles/CMakeScratch/TryCompile-4rhCSy'
         
-        Run Build Command(s): /usr/local/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile cmTC_be63e/fast
-        /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_be63e.dir/build.make CMakeFiles/cmTC_be63e.dir/build
-        Building CXX object CMakeFiles/cmTC_be63e.dir/src.cxx.o
-        /usr/bin/c++ -DCXX_SUPPORTS_SSE4_2  -msse4.2 -MD -MT CMakeFiles/cmTC_be63e.dir/src.cxx.o -MF CMakeFiles/cmTC_be63e.dir/src.cxx.o.d -o CMakeFiles/cmTC_be63e.dir/src.cxx.o -c /Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/CMakeFiles/CMakeScratch/TryCompile-F36J8g/src.cxx
-        Linking CXX executable cmTC_be63e
-        /usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_be63e.dir/link.txt --verbose=1
-        /usr/bin/c++ -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/cmTC_be63e.dir/src.cxx.o -o cmTC_be63e
+        Run Build Command(s): /usr/local/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile cmTC_8f333/fast
+        /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_8f333.dir/build.make CMakeFiles/cmTC_8f333.dir/build
+        Building CXX object CMakeFiles/cmTC_8f333.dir/src.cxx.o
+        /usr/bin/c++ -DCXX_SUPPORTS_SSE4_2  -msse4.2 -MD -MT CMakeFiles/cmTC_8f333.dir/src.cxx.o -MF CMakeFiles/cmTC_8f333.dir/src.cxx.o.d -o CMakeFiles/cmTC_8f333.dir/src.cxx.o -c /Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/CMakeFiles/CMakeScratch/TryCompile-4rhCSy/src.cxx
+        Linking CXX executable cmTC_8f333
+        /usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_8f333.dir/link.txt --verbose=1
+        /usr/bin/c++ -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/cmTC_8f333.dir/src.cxx.o -o cmTC_8f333
         
       exitCode: 0
   -
@@ -527,8 +527,8 @@ events:
     checks:
       - "Performing Test CXX_SUPPORTS_AVX2"
     directories:
-      source: "/Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/CMakeFiles/CMakeScratch/TryCompile-l4clq6"
-      binary: "/Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/CMakeFiles/CMakeScratch/TryCompile-l4clq6"
+      source: "/Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/CMakeFiles/CMakeScratch/TryCompile-GT2Zpl"
+      binary: "/Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/CMakeFiles/CMakeScratch/TryCompile-GT2Zpl"
     cmakeVariables:
       CMAKE_CXX_FLAGS: ""
       CMAKE_CXX_FLAGS_DEBUG: "-g"
@@ -541,15 +541,15 @@ events:
       variable: "CXX_SUPPORTS_AVX2"
       cached: true
       stdout: |
-        Change Dir: '/Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/CMakeFiles/CMakeScratch/TryCompile-l4clq6'
+        Change Dir: '/Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/CMakeFiles/CMakeScratch/TryCompile-GT2Zpl'
         
-        Run Build Command(s): /usr/local/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile cmTC_046b1/fast
-        /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_046b1.dir/build.make CMakeFiles/cmTC_046b1.dir/build
-        Building CXX object CMakeFiles/cmTC_046b1.dir/src.cxx.o
-        /usr/bin/c++ -DCXX_SUPPORTS_AVX2  -march=haswell -mavx2 -MD -MT CMakeFiles/cmTC_046b1.dir/src.cxx.o -MF CMakeFiles/cmTC_046b1.dir/src.cxx.o.d -o CMakeFiles/cmTC_046b1.dir/src.cxx.o -c /Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/CMakeFiles/CMakeScratch/TryCompile-l4clq6/src.cxx
-        Linking CXX executable cmTC_046b1
-        /usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_046b1.dir/link.txt --verbose=1
-        /usr/bin/c++ -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/cmTC_046b1.dir/src.cxx.o -o cmTC_046b1
+        Run Build Command(s): /usr/local/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile cmTC_263a3/fast
+        /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_263a3.dir/build.make CMakeFiles/cmTC_263a3.dir/build
+        Building CXX object CMakeFiles/cmTC_263a3.dir/src.cxx.o
+        /usr/bin/c++ -DCXX_SUPPORTS_AVX2  -march=haswell -mavx2 -MD -MT CMakeFiles/cmTC_263a3.dir/src.cxx.o -MF CMakeFiles/cmTC_263a3.dir/src.cxx.o.d -o CMakeFiles/cmTC_263a3.dir/src.cxx.o -c /Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/CMakeFiles/CMakeScratch/TryCompile-GT2Zpl/src.cxx
+        Linking CXX executable cmTC_263a3
+        /usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_263a3.dir/link.txt --verbose=1
+        /usr/bin/c++ -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/cmTC_263a3.dir/src.cxx.o -o cmTC_263a3
         
       exitCode: 0
   -
@@ -562,8 +562,8 @@ events:
     checks:
       - "Performing Test CXX_SUPPORTS_AVX512"
     directories:
-      source: "/Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/CMakeFiles/CMakeScratch/TryCompile-BLA6RD"
-      binary: "/Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/CMakeFiles/CMakeScratch/TryCompile-BLA6RD"
+      source: "/Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/CMakeFiles/CMakeScratch/TryCompile-PmptNZ"
+      binary: "/Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/CMakeFiles/CMakeScratch/TryCompile-PmptNZ"
     cmakeVariables:
       CMAKE_CXX_FLAGS: ""
       CMAKE_CXX_FLAGS_DEBUG: "-g"
@@ -576,15 +576,15 @@ events:
       variable: "CXX_SUPPORTS_AVX512"
       cached: true
       stdout: |
-        Change Dir: '/Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/CMakeFiles/CMakeScratch/TryCompile-BLA6RD'
+        Change Dir: '/Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/CMakeFiles/CMakeScratch/TryCompile-PmptNZ'
         
-        Run Build Command(s): /usr/local/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile cmTC_3e50d/fast
-        /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_3e50d.dir/build.make CMakeFiles/cmTC_3e50d.dir/build
-        Building CXX object CMakeFiles/cmTC_3e50d.dir/src.cxx.o
-        /usr/bin/c++ -DCXX_SUPPORTS_AVX512  -march=skylake-avx512 -mavx512f -mavx512cd -mavx512vl -mavx512dq -mavx512bw -MD -MT CMakeFiles/cmTC_3e50d.dir/src.cxx.o -MF CMakeFiles/cmTC_3e50d.dir/src.cxx.o.d -o CMakeFiles/cmTC_3e50d.dir/src.cxx.o -c /Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/CMakeFiles/CMakeScratch/TryCompile-BLA6RD/src.cxx
-        Linking CXX executable cmTC_3e50d
-        /usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_3e50d.dir/link.txt --verbose=1
-        /usr/bin/c++   -march=skylake-avx512 -mavx512f -mavx512cd -mavx512vl -mavx512dq -mavx512bw -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/cmTC_3e50d.dir/src.cxx.o -o cmTC_3e50d
+        Run Build Command(s): /usr/local/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile cmTC_1db95/fast
+        /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_1db95.dir/build.make CMakeFiles/cmTC_1db95.dir/build
+        Building CXX object CMakeFiles/cmTC_1db95.dir/src.cxx.o
+        /usr/bin/c++ -DCXX_SUPPORTS_AVX512  -march=skylake-avx512 -mavx512f -mavx512cd -mavx512vl -mavx512dq -mavx512bw -MD -MT CMakeFiles/cmTC_1db95.dir/src.cxx.o -MF CMakeFiles/cmTC_1db95.dir/src.cxx.o.d -o CMakeFiles/cmTC_1db95.dir/src.cxx.o -c /Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/CMakeFiles/CMakeScratch/TryCompile-PmptNZ/src.cxx
+        Linking CXX executable cmTC_1db95
+        /usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_1db95.dir/link.txt --verbose=1
+        /usr/bin/c++   -march=skylake-avx512 -mavx512f -mavx512cd -mavx512vl -mavx512dq -mavx512bw -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/cmTC_1db95.dir/src.cxx.o -o cmTC_1db95
         
       exitCode: 0
   -
@@ -597,8 +597,8 @@ events:
     checks:
       - "Performing Test CXX_LINKER_SUPPORTS_VERSION_SCRIPT"
     directories:
-      source: "/Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/CMakeFiles/CMakeScratch/TryCompile-bwit8L"
-      binary: "/Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/CMakeFiles/CMakeScratch/TryCompile-bwit8L"
+      source: "/Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/CMakeFiles/CMakeScratch/TryCompile-eP7gox"
+      binary: "/Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/CMakeFiles/CMakeScratch/TryCompile-eP7gox"
     cmakeVariables:
       CMAKE_CXX_FLAGS: " -Qunused-arguments -fcolor-diagnostics"
       CMAKE_CXX_FLAGS_DEBUG: "-g -O0 -ggdb "
@@ -612,19 +612,19 @@ events:
       variable: "CXX_LINKER_SUPPORTS_VERSION_SCRIPT"
       cached: true
       stdout: |
-        Change Dir: '/Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/CMakeFiles/CMakeScratch/TryCompile-bwit8L'
+        Change Dir: '/Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/CMakeFiles/CMakeScratch/TryCompile-eP7gox'
         
-        Run Build Command(s): /usr/local/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile cmTC_aa719/fast
-        /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_aa719.dir/build.make CMakeFiles/cmTC_aa719.dir/build
-        Building CXX object CMakeFiles/cmTC_aa719.dir/src.cxx.o
-        /usr/bin/c++ -DCXX_LINKER_SUPPORTS_VERSION_SCRIPT  -Qunused-arguments -fcolor-diagnostics  -std=c++17 -fPIE -MD -MT CMakeFiles/cmTC_aa719.dir/src.cxx.o -MF CMakeFiles/cmTC_aa719.dir/src.cxx.o.d -o CMakeFiles/cmTC_aa719.dir/src.cxx.o -c /Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/CMakeFiles/CMakeScratch/TryCompile-bwit8L/src.cxx
-        Linking CXX executable cmTC_aa719
-        /usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_aa719.dir/link.txt --verbose=1
+        Run Build Command(s): /usr/local/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile cmTC_1242c/fast
+        /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_1242c.dir/build.make CMakeFiles/cmTC_1242c.dir/build
+        Building CXX object CMakeFiles/cmTC_1242c.dir/src.cxx.o
+        /usr/bin/c++ -DCXX_LINKER_SUPPORTS_VERSION_SCRIPT  -Qunused-arguments -fcolor-diagnostics  -std=c++17 -fPIE -MD -MT CMakeFiles/cmTC_1242c.dir/src.cxx.o -MF CMakeFiles/cmTC_1242c.dir/src.cxx.o.d -o CMakeFiles/cmTC_1242c.dir/src.cxx.o -c /Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/CMakeFiles/CMakeScratch/TryCompile-eP7gox/src.cxx
+        Linking CXX executable cmTC_1242c
+        /usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_1242c.dir/link.txt --verbose=1
         ld: unknown option: --version-script=/Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow/cpp/src/arrow/symbols.map
         clang: \x1b[0;1;31merror: \x1b[0mlinker command failed with exit code 1 (use -v to see invocation)\x1b[0m
-        /usr/bin/c++  -Qunused-arguments -fcolor-diagnostics  -Wl,-search_paths_first -Wl,-headerpad_max_install_names -Wl,--version-script=/Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow/cpp/src/arrow/symbols.map CMakeFiles/cmTC_aa719.dir/src.cxx.o -o cmTC_aa719
-        make[4]: *** [cmTC_aa719] Error 1
-        make[3]: *** [cmTC_aa719/fast] Error 2
+        /usr/bin/c++  -Qunused-arguments -fcolor-diagnostics  -Wl,-search_paths_first -Wl,-headerpad_max_install_names -Wl,--version-script=/Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow/cpp/src/arrow/symbols.map CMakeFiles/cmTC_1242c.dir/src.cxx.o -o cmTC_1242c
+        make[4]: *** [cmTC_1242c] Error 1
+        make[3]: *** [cmTC_1242c/fast] Error 2
         
       exitCode: 2
   -
@@ -639,8 +639,8 @@ events:
     checks:
       - "Performing Test CMAKE_HAVE_LIBC_PTHREAD"
     directories:
-      source: "/Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/CMakeFiles/CMakeScratch/TryCompile-D8ZyDn"
-      binary: "/Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/CMakeFiles/CMakeScratch/TryCompile-D8ZyDn"
+      source: "/Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/CMakeFiles/CMakeScratch/TryCompile-9rBv7o"
+      binary: "/Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/CMakeFiles/CMakeScratch/TryCompile-9rBv7o"
     cmakeVariables:
       CMAKE_C_FLAGS: " -Qunused-arguments"
       CMAKE_C_FLAGS_DEBUG: "-g -O0 -ggdb "
@@ -654,15 +654,15 @@ events:
       variable: "CMAKE_HAVE_LIBC_PTHREAD"
       cached: true
       stdout: |
-        Change Dir: '/Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/CMakeFiles/CMakeScratch/TryCompile-D8ZyDn'
+        Change Dir: '/Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/CMakeFiles/CMakeScratch/TryCompile-9rBv7o'
         
-        Run Build Command(s): /usr/local/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile cmTC_12c8d/fast
-        /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_12c8d.dir/build.make CMakeFiles/cmTC_12c8d.dir/build
-        Building C object CMakeFiles/cmTC_12c8d.dir/src.c.o
-        /usr/bin/cc -DCMAKE_HAVE_LIBC_PTHREAD  -Qunused-arguments  -fPIE -MD -MT CMakeFiles/cmTC_12c8d.dir/src.c.o -MF CMakeFiles/cmTC_12c8d.dir/src.c.o.d -o CMakeFiles/cmTC_12c8d.dir/src.c.o -c /Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/CMakeFiles/CMakeScratch/TryCompile-D8ZyDn/src.c
-        Linking C executable cmTC_12c8d
-        /usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_12c8d.dir/link.txt --verbose=1
-        /usr/bin/cc  -Qunused-arguments  -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/cmTC_12c8d.dir/src.c.o -o cmTC_12c8d
+        Run Build Command(s): /usr/local/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile cmTC_c8b0f/fast
+        /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_c8b0f.dir/build.make CMakeFiles/cmTC_c8b0f.dir/build
+        Building C object CMakeFiles/cmTC_c8b0f.dir/src.c.o
+        /usr/bin/cc -DCMAKE_HAVE_LIBC_PTHREAD  -Qunused-arguments  -fPIE -MD -MT CMakeFiles/cmTC_c8b0f.dir/src.c.o -MF CMakeFiles/cmTC_c8b0f.dir/src.c.o.d -o CMakeFiles/cmTC_c8b0f.dir/src.c.o -c /Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/CMakeFiles/CMakeScratch/TryCompile-9rBv7o/src.c
+        Linking C executable cmTC_c8b0f
+        /usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_c8b0f.dir/link.txt --verbose=1
+        /usr/bin/cc  -Qunused-arguments  -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/cmTC_c8b0f.dir/src.c.o -o cmTC_c8b0f
         
       exitCode: 0
   -
@@ -675,8 +675,8 @@ events:
     checks:
       - "Looking for _M_ARM64"
     directories:
-      source: "/Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/CMakeFiles/CMakeScratch/TryCompile-oj7M77"
-      binary: "/Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/CMakeFiles/CMakeScratch/TryCompile-oj7M77"
+      source: "/Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/CMakeFiles/CMakeScratch/TryCompile-W8wXMJ"
+      binary: "/Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/CMakeFiles/CMakeScratch/TryCompile-W8wXMJ"
     cmakeVariables:
       CMAKE_CXX_FLAGS: " -Qunused-arguments -fcolor-diagnostics"
       CMAKE_CXX_FLAGS_DEBUG: "-g -O0 -ggdb "
@@ -690,18 +690,18 @@ events:
       variable: "WIN32_ARM64_TARGET"
       cached: true
       stdout: |
-        Change Dir: '/Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/CMakeFiles/CMakeScratch/TryCompile-oj7M77'
+        Change Dir: '/Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/CMakeFiles/CMakeScratch/TryCompile-W8wXMJ'
         
-        Run Build Command(s): /usr/local/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile cmTC_06b98/fast
-        /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_06b98.dir/build.make CMakeFiles/cmTC_06b98.dir/build
-        Building CXX object CMakeFiles/cmTC_06b98.dir/CheckSymbolExists.cxx.o
-        /usr/bin/c++   -Qunused-arguments -fcolor-diagnostics  -std=c++17 -fPIE -MD -MT CMakeFiles/cmTC_06b98.dir/CheckSymbolExists.cxx.o -MF CMakeFiles/cmTC_06b98.dir/CheckSymbolExists.cxx.o.d -o CMakeFiles/cmTC_06b98.dir/CheckSymbolExists.cxx.o -c /Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/CMakeFiles/CMakeScratch/TryCompile-oj7M77/CheckSymbolExists.cxx
-        \x1b[1m/Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/CMakeFiles/CMakeScratch/TryCompile-oj7M77/CheckSymbolExists.cxx:7:19: \x1b[0m\x1b[0;1;31merror: \x1b[0m\x1b[1muse of undeclared identifier '_M_ARM64'\x1b[0m
+        Run Build Command(s): /usr/local/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile cmTC_36532/fast
+        /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_36532.dir/build.make CMakeFiles/cmTC_36532.dir/build
+        Building CXX object CMakeFiles/cmTC_36532.dir/CheckSymbolExists.cxx.o
+        /usr/bin/c++   -Qunused-arguments -fcolor-diagnostics  -std=c++17 -fPIE -MD -MT CMakeFiles/cmTC_36532.dir/CheckSymbolExists.cxx.o -MF CMakeFiles/cmTC_36532.dir/CheckSymbolExists.cxx.o.d -o CMakeFiles/cmTC_36532.dir/CheckSymbolExists.cxx.o -c /Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/CMakeFiles/CMakeScratch/TryCompile-W8wXMJ/CheckSymbolExists.cxx
+        \x1b[1m/Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/CMakeFiles/CMakeScratch/TryCompile-W8wXMJ/CheckSymbolExists.cxx:7:19: \x1b[0m\x1b[0;1;31merror: \x1b[0m\x1b[1muse of undeclared identifier '_M_ARM64'\x1b[0m
           return ((int*)(&_M_ARM64))[argc];
         \x1b[0;1;32m                  ^
         \x1b[0m1 error generated.
-        make[4]: *** [CMakeFiles/cmTC_06b98.dir/CheckSymbolExists.cxx.o] Error 1
-        make[3]: *** [cmTC_06b98/fast] Error 2
+        make[4]: *** [CMakeFiles/cmTC_36532.dir/CheckSymbolExists.cxx.o] Error 1
+        make[3]: *** [cmTC_36532/fast] Error 2
         
       exitCode: 2
   -
@@ -714,8 +714,8 @@ events:
     checks:
       - "Looking for __SIZEOF_INT128__"
     directories:
-      source: "/Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/CMakeFiles/CMakeScratch/TryCompile-25lTjB"
-      binary: "/Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/CMakeFiles/CMakeScratch/TryCompile-25lTjB"
+      source: "/Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/CMakeFiles/CMakeScratch/TryCompile-MevpfI"
+      binary: "/Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/CMakeFiles/CMakeScratch/TryCompile-MevpfI"
     cmakeVariables:
       CMAKE_CXX_FLAGS: " -Qunused-arguments -fcolor-diagnostics"
       CMAKE_CXX_FLAGS_DEBUG: "-g -O0 -ggdb "
@@ -729,15 +729,15 @@ events:
       variable: "ARROW_USE_NATIVE_INT128"
       cached: true
       stdout: |
-        Change Dir: '/Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/CMakeFiles/CMakeScratch/TryCompile-25lTjB'
+        Change Dir: '/Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/CMakeFiles/CMakeScratch/TryCompile-MevpfI'
         
-        Run Build Command(s): /usr/local/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile cmTC_e7e84/fast
-        /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_e7e84.dir/build.make CMakeFiles/cmTC_e7e84.dir/build
-        Building CXX object CMakeFiles/cmTC_e7e84.dir/CheckSymbolExists.cxx.o
-        /usr/bin/c++   -Qunused-arguments -fcolor-diagnostics  -std=c++17 -fPIE -MD -MT CMakeFiles/cmTC_e7e84.dir/CheckSymbolExists.cxx.o -MF CMakeFiles/cmTC_e7e84.dir/CheckSymbolExists.cxx.o.d -o CMakeFiles/cmTC_e7e84.dir/CheckSymbolExists.cxx.o -c /Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/CMakeFiles/CMakeScratch/TryCompile-25lTjB/CheckSymbolExists.cxx
-        Linking CXX executable cmTC_e7e84
-        /usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_e7e84.dir/link.txt --verbose=1
-        /usr/bin/c++  -Qunused-arguments -fcolor-diagnostics  -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/cmTC_e7e84.dir/CheckSymbolExists.cxx.o -o cmTC_e7e84
+        Run Build Command(s): /usr/local/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile cmTC_e83a6/fast
+        /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_e83a6.dir/build.make CMakeFiles/cmTC_e83a6.dir/build
+        Building CXX object CMakeFiles/cmTC_e83a6.dir/CheckSymbolExists.cxx.o
+        /usr/bin/c++   -Qunused-arguments -fcolor-diagnostics  -std=c++17 -fPIE -MD -MT CMakeFiles/cmTC_e83a6.dir/CheckSymbolExists.cxx.o -MF CMakeFiles/cmTC_e83a6.dir/CheckSymbolExists.cxx.o.d -o CMakeFiles/cmTC_e83a6.dir/CheckSymbolExists.cxx.o -c /Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/CMakeFiles/CMakeScratch/TryCompile-MevpfI/CheckSymbolExists.cxx
+        Linking CXX executable cmTC_e83a6
+        /usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_e83a6.dir/link.txt --verbose=1
+        /usr/bin/c++  -Qunused-arguments -fcolor-diagnostics  -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/cmTC_e83a6.dir/CheckSymbolExists.cxx.o -o cmTC_e83a6
         
       exitCode: 0
   -
@@ -750,8 +750,8 @@ events:
     checks:
       - "Looking for backtrace"
     directories:
-      source: "/Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/CMakeFiles/CMakeScratch/TryCompile-p9L7wB"
-      binary: "/Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/CMakeFiles/CMakeScratch/TryCompile-p9L7wB"
+      source: "/Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/CMakeFiles/CMakeScratch/TryCompile-WKiEXr"
+      binary: "/Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/CMakeFiles/CMakeScratch/TryCompile-WKiEXr"
     cmakeVariables:
       CMAKE_C_FLAGS: " -Qunused-arguments  -Wall -Wno-unknown-warning-option -Wno-pass-failed -msse4.2 "
       CMAKE_C_FLAGS_DEBUG: "-g -O0 -ggdb "
@@ -765,15 +765,15 @@ events:
       variable: "_Backtrace_SYM_FOUND"
       cached: true
       stdout: |
-        Change Dir: '/Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/CMakeFiles/CMakeScratch/TryCompile-p9L7wB'
+        Change Dir: '/Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/CMakeFiles/CMakeScratch/TryCompile-WKiEXr'
         
-        Run Build Command(s): /usr/local/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile cmTC_c51e7/fast
-        /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_c51e7.dir/build.make CMakeFiles/cmTC_c51e7.dir/build
-        Building C object CMakeFiles/cmTC_c51e7.dir/CheckSymbolExists.c.o
-        /usr/bin/cc   -Qunused-arguments  -Wall -Wno-unknown-warning-option -Wno-pass-failed -msse4.2   -fPIE -MD -MT CMakeFiles/cmTC_c51e7.dir/CheckSymbolExists.c.o -MF CMakeFiles/cmTC_c51e7.dir/CheckSymbolExists.c.o.d -o CMakeFiles/cmTC_c51e7.dir/CheckSymbolExists.c.o -c /Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/CMakeFiles/CMakeScratch/TryCompile-p9L7wB/CheckSymbolExists.c
-        Linking C executable cmTC_c51e7
-        /usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_c51e7.dir/link.txt --verbose=1
-        /usr/bin/cc  -Qunused-arguments  -Wall -Wno-unknown-warning-option -Wno-pass-failed -msse4.2   -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/cmTC_c51e7.dir/CheckSymbolExists.c.o -o cmTC_c51e7
+        Run Build Command(s): /usr/local/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile cmTC_5443f/fast
+        /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_5443f.dir/build.make CMakeFiles/cmTC_5443f.dir/build
+        Building C object CMakeFiles/cmTC_5443f.dir/CheckSymbolExists.c.o
+        /usr/bin/cc   -Qunused-arguments  -Wall -Wno-unknown-warning-option -Wno-pass-failed -msse4.2   -fPIE -MD -MT CMakeFiles/cmTC_5443f.dir/CheckSymbolExists.c.o -MF CMakeFiles/cmTC_5443f.dir/CheckSymbolExists.c.o.d -o CMakeFiles/cmTC_5443f.dir/CheckSymbolExists.c.o -c /Users/sharadsingh/Dev/cpp_proj/build/Arrow-prefix/src/Arrow-build/CMakeFiles/CMakeScratch/TryCompile-WKiEXr/CheckSymbolExists.c
+        Linking C executable cmTC_5443f
+        /usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_5443f.dir/link.txt --verbose=1
+        /usr/bin/cc  -Qunused-arguments  -Wall -Wno-unknown-warning-option -Wno-pass-failed -msse4.2   -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/cmTC_5443f.dir/CheckSymbolExists.c.o -o cmTC_5443f
         
       exitCode: 0
 ...
