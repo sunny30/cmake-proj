@@ -5,6 +5,8 @@
 
 using namespace std;
 
+// g++ ../thread_lib/thread1.cpp -lpthread -o t1
+
 typedef struct matrix_task {
   int (*data)[3];
 
