@@ -2,6 +2,8 @@
 #include <iostream>
 #include <pthread.h>
 #include <stdio.h>
+#include <stdbool.h>
+
 
 using namespace std;
 
@@ -15,16 +17,20 @@ typedef struct matrix_task {
 } mat_task;
 
 void *thread_task(void *param) {
-  // cout<<"inside threads task"<<endl ;
+
   mat_task task = *(mat_task *)(param);
-  // cout<<"post casting"<<endl ;
+  long wrong_task = *(long *)param ;
+  int value = _Generic(task, mat_task:2, double:3, default:0) ;
+  cout<<value<<endl ;
+  value = _Generic(wrong_task, mat_task:2, double:3,long:4, default:0) ;
+  cout<<value<<endl ;
+  
+  
   long result = 0;
 
-  //cout << task.r << endl;
   for (int i = 0; i < 3; i++) {
     result += task.data[task.r][i];
   }
-  //printf("%ld\n", result);
   return (void *)result;
 }
 
@@ -38,7 +44,6 @@ int main() {
   mat_input[1].r = 1;
   mat_input[2].data = input;
   mat_input[2].r = 2;
-  // cout << "thread getting tarted" << endl;
   pthread_t threads[3];
   for (int i = 0; i < 3; i++) {
     pthread_create(&threads[i], NULL, thread_task, &(mat_input[i]));
@@ -53,3 +58,5 @@ int main() {
 
   cout << ans << endl;
 }
+
+
