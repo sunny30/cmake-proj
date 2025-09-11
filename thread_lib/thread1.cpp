@@ -1,9 +1,8 @@
 #include <cstddef>
 #include <iostream>
 #include <pthread.h>
-#include <stdio.h>
 #include <stdbool.h>
-
+#include <stdio.h>
 
 using namespace std;
 
@@ -19,13 +18,12 @@ typedef struct matrix_task {
 void *thread_task(void *param) {
 
   mat_task task = *(mat_task *)(param);
-  long wrong_task = *(long *)param ;
-  int value = _Generic(task, mat_task:2, double:3, default:0) ;
-  cout<<value<<endl ;
-  value = _Generic(wrong_task, mat_task:2, double:3,long:4, default:0) ;
-  cout<<value<<endl ;
-  
-  
+  // long wrong_task = *(long *)param ;
+  int value = _Generic(task, mat_task: 2, double: 3, default: 0);
+  cout << value << endl;
+  // value = _Generic(wrong_task, mat_task:2, double:3,long:4, default:0) ;
+  // cout<<value<<endl ;
+
   long result = 0;
 
   for (int i = 0; i < 3; i++) {
@@ -58,5 +56,3 @@ int main() {
 
   cout << ans << endl;
 }
-
-
