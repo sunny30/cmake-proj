@@ -9,6 +9,9 @@ ExternalProject_Add(Arrow
     SOURCE_SUBDIR cpp
     CMAKE_ARGS "-Dxsimd_SOURCE=BUNDLED"
 )
+find_package(Arrow REQUIRED)
+target_link_libraries(my_example PRIVATE Arrow::arrow_shared)
+
 
 file(GLOB SOURCES 
 *.h

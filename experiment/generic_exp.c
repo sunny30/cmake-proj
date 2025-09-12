@@ -10,6 +10,11 @@ T dot_product_##T(T val1[], T val2[], int len){ \
     return result ; \
 }
 
+#define generic_dot_product_expr(T, val1, val2, len, result) \
+result = (val1)[0]* (val2)[0] ;\
+for(int i=1;i<(len); i++) { \
+    result = result + (val1)[i]* (val2)[i] ; \   
+} \
 
 generic_dot_product(int) ;
 generic_dot_product(double) ;
@@ -26,4 +31,13 @@ int main(){
     printf("%d\n", res) ;
 
     printf("%llf\n", resd) ;
+
+    int result = 0 ;
+    generic_dot_product_expr(int, a, b, 3, result) ;
+    printf("%d\n", result) ;
+
+    double resultd ;
+    generic_dot_product_expr(double, ad, bd, 3, resultd) ;
+    printf("%llf\n", resultd) ;
+
 }
